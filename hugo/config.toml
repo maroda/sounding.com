@@ -1,0 +1,4 @@
+baseURL = "http://hpschd.xyz/"
+languageCode = "en-us"
+title = "Sounding"
+theme = "bento"
