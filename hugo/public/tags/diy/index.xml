@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIY on Sounding</title>
+    <link>https://sounding.com/tags/diy/</link>
+    <description>Recent content in DIY on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Apr 2012 00:36:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY Audio: UNPLUGGED</title>
+      <link>https://sounding.com/2012/04/11/diy-audio-unplugged/</link>
+      <pubDate>Thu, 12 Apr 2012 00:36:58 +0000</pubDate>
+      
+      <guid>https://sounding.com/2012/04/11/diy-audio-unplugged/</guid>
+      <description>Probably around five years ago now, while much further in the depths of a thrice-laid-off financial hole the technology industry bestowed upon me, I became fixated with actually building my own electronic instruments. Ensuing the expertise to make music that way, I departed into the wide unknown universe of DIY audio.
+The first time I encountered a small, personal modular synthesizer was during a long gallery installation and collaborative work by Achim Wollscheid in Chicago (I also happened to have given him a ride to where he was going his first night there, and had rich conversations for the short time we were all together).</description>
+    </item>
+    
+    <item>
+      <title>“Booglitchoo” Synth Prototype</title>
+      <link>https://sounding.com/2011/06/22/booglitchoo-synth-prototype/</link>
+      <pubDate>Thu, 23 Jun 2011 06:52:13 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/06/22/booglitchoo-synth-prototype/</guid>
+      <description>Here we go… I’ve optimized the way I’m using power, love the way the dual jfet opamps (TL082) sound, and have the mixing elements mostly decided.
+To be done on this prototype:
+ use either capacitor switching or a simple 4017 sequencer to change up the textural possibilities of the oscillator add switches to the voice modulator to allow for “skipping around” pitches instead of only up or down changes CV input  I went through quite a few opamps before finally deciding on the dual jfets, and now I really dig how they’re working with the complex waveform of the four NAND gates (NTE4093)… I use it first as a multipole low-pass filter to shape the sound of the chained oscillators.</description>
+    </item>
+    
+    <item>
+      <title>just some synth</title>
+      <link>https://sounding.com/2010/09/19/just-some-synth/</link>
+      <pubDate>Mon, 20 Sep 2010 00:57:25 +0000</pubDate>
+      
+      <guid>https://sounding.com/2010/09/19/just-some-synth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new improv tool is born</title>
+      <link>https://sounding.com/2010/09/05/a-new-improv-tool-is-born/</link>
+      <pubDate>Sun, 05 Sep 2010 20:53:37 +0000</pubDate>
+      
+      <guid>https://sounding.com/2010/09/05/a-new-improv-tool-is-born/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My synth project: complete!</title>
+      <link>https://sounding.com/2009/03/11/my-synth-project-complete/</link>
+      <pubDate>Thu, 12 Mar 2009 07:01:29 +0000</pubDate>
+      
+      <guid>https://sounding.com/2009/03/11/my-synth-project-complete/</guid>
+      <description>Here’s something I thought I’d never see myself do in my own lifetime: build a synthesizer from scratch.
+Actually it’s a simple design: 2 555 timers in astable configuration producing square-waves. This means it’s a burst of sound every interval, pretty annoying and not very useful except for maybe starting earthquakes. So to give it a little flavor, I put a low-pass, 2-pole filter on the output of each oscillator, using a traditional operational amplifier.</description>
+    </item>
+    
+    <item>
+      <title>DIY photo-sensitive synth</title>
+      <link>https://sounding.com/2008/07/08/diy-photo-sensitive-synth/</link>
+      <pubDate>Tue, 08 Jul 2008 21:33:02 +0000</pubDate>
+      
+      <guid>https://sounding.com/2008/07/08/diy-photo-sensitive-synth/</guid>
+      <description>I’m excited to be waiting on the arrival of my new Bleep Labs ThingamaKIT.
+Not unlike the simple improvising synth I’ve been working on with VCOs and 2-pole filters, this is a DIY version of their photo-sensitive thingamagoop, described on their website as simply:
+“The Thingamagoops have oscillators just like any synth. On analog synths the oscillator that creates the actual tone you hear is called a VCO or voltage controlled oscillator.</description>
+    </item>
+    
+  </channel>
+</rss>

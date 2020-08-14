@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Sounding</title>
+    <link>https://sounding.com/tags/links/</link>
+    <description>Recent content in links on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Aug 2008 23:07:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experimental Music Links</title>
+      <link>https://sounding.com/2008/08/25/experimental-music-links/</link>
+      <pubDate>Mon, 25 Aug 2008 23:07:01 +0000</pubDate>
+      
+      <guid>https://sounding.com/2008/08/25/experimental-music-links/</guid>
+      <description>I’m usually happening upon all kinds of things while I’m across the Internets for work or play, and I’ll document the more interesting and pertinent ones here on sounding.com.
+I keep my own list of interesting Audio Hardware, as well as links to useful Audio Software, a lot of which centers around open source or DIY.
+Check out Audio Culture for general experimental audio society.
+Get Some is my list of “obtaining” art and sound across the Internet, both pay-sites and places you can get free stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

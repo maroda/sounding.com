@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Sounding</title>
+    <link>https://sounding.com/tags/podcast/</link>
+    <description>Recent content in podcast on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Jan 2008 21:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New on CraqueCast: Amalgamation</title>
+      <link>https://sounding.com/2008/01/09/new-on-craquecast-amalgamation/</link>
+      <pubDate>Wed, 09 Jan 2008 21:17:00 +0000</pubDate>
+      
+      <guid>https://sounding.com/2008/01/09/new-on-craquecast-amalgamation/</guid>
+      <description>Starting off the new year with an archival live show: Amalgamation: Live at Smartbar, Chicago, 2002 is a set I did at SmartBar in March of 2002.
+This is a set where I combined many influences, methods and directions together through a wide assortment of sampled objects, guitar playing, voices, and softsynths. It’s glitchy, ambient, dark, funky, beaty and bouncy all at the same time! A really nice listen with highly contrasting sections of sound and rhythm.</description>
+    </item>
+    
+  </channel>
+</rss>

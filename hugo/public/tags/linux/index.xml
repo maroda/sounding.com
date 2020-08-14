@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Sounding</title>
+    <link>https://sounding.com/tags/linux/</link>
+    <description>Recent content in linux on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Dec 2018 02:57:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Musical Intuition meet Technology and Chaos</title>
+      <link>https://sounding.com/2018/12/26/musical-intuition-meet-technology-and-chaos/</link>
+      <pubDate>Thu, 27 Dec 2018 02:57:40 +0000</pubDate>
+      
+      <guid>https://sounding.com/2018/12/26/musical-intuition-meet-technology-and-chaos/</guid>
+      <description>Today I read through the InfoQ eMag on Chaos Engineering, and was struck by John Allspaw’s (@allspaw) contribution because it reminded me of something I jotted down on a sticky at my desk a few days ago:
+ Intuition is valid because it is learned like jazz changes.  I’m pretty stubborn and refuse to accept that music is merely a hobby of mine. When people ask me if electronic music or singing is my “hobby”, I am wincing inside.</description>
+    </item>
+    
+  </channel>
+</rss>

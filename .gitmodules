@@ -4,3 +4,6 @@
 [submodule "hugo/themes/bento"]
 	path = hugo/themes/bento
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "hugo/themes/hugo-future-imperfect-slim"]
+	path = hugo/themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git

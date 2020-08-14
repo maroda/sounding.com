@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Sounding</title>
+    <link>https://sounding.com/categories/technology/</link>
+    <description>Recent content in technology on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 22:40:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti-Bias of Listening Deeply</title>
+      <link>https://sounding.com/2020/05/17/anti-bias-of-listening-deeply/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/2020/05/17/anti-bias-of-listening-deeply/</guid>
+      <description>Getting around cognitive biases (like “hindsight is 20/20” or a confirmation you expect) is akin to Listening Deeply. I don’t mean paying more attention gives better insight. I mean what matters is the entirety of your sonic awareness.
+  There is a composer / meditative approach to sound pioneered by Pauline Oliveros called Deep Listening. I have practiced it, all too briefly with her, but mostly with others taught by her.</description>
+    </item>
+    
+    <item>
+      <title>Musical City Techno</title>
+      <link>https://sounding.com/2019/09/11/musical-city-techno/</link>
+      <pubDate>Wed, 11 Sep 2019 20:39:41 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/09/11/musical-city-techno/</guid>
+      <description>Fanny&amp;#8217;s Music, East Nashville
+  Cicada, cricket, grasshopper, frog. However that particular indeterminate carpet of sound occurs, it is a permanent feature of the American South. I grew up in this soup, so hearing this familiar symphony again after nearly two decades of being away felt surreal and magical.
+It is the sound that framed my stay in Nashville, Music City, for three mini-conferences all held at once at the Nossi College of Art: Music City Agile, Music City Code, and Music City Data.</description>
+    </item>
+    
+    <item>
+      <title>Meta Workshop Jam</title>
+      <link>https://sounding.com/2019/08/15/meta-workshop-jam/</link>
+      <pubDate>Fri, 16 Aug 2019 03:00:13 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/08/15/meta-workshop-jam/</guid>
+      <description>Me at the Palace of Fine Arts, workshop eve  Walking late one afternoon after a day deep in Cognitive Systems and Resilience Engineering workshops, chatting with one of the eminent researchers in the field, the conversation circled around common ground in joint activity and sociotechnical systems sharing qualities with music ensembles. I remember agreeing how some uncategorizable thing exists on both sides as an outcome, where a result far greater than merely the sum of its parts occurs.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Verified Machine</title>
+      <link>https://sounding.com/2019/04/11/welcome-to-the-verified-machine/</link>
+      <pubDate>Fri, 12 Apr 2019 01:53:07 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/04/11/welcome-to-the-verified-machine/</guid>
+      <description>Imagine for a moment that you’re a software team, pushing new versions into production. You’re working on multiple pieces independently, so as you make changes automation pulls it all together in orderly Continuous Integration. At the right moment, your team’s work is pushed and Continuous Delivery does the job. Five deploys a day? No problem. Y’all have written, collaborated, tested, and published your glorious stuff. Job well done!!!
+Just kidding, you’re not done.</description>
+    </item>
+    
+    <item>
+      <title>MusiCirTechUs</title>
+      <link>https://sounding.com/2019/03/21/musicirtechus/</link>
+      <pubDate>Fri, 22 Mar 2019 02:00:23 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/03/21/musicirtechus/</guid>
+      <description>Plenty of people who work in technology are musicians. Plenty of humans are musicians, and all of us are listening, even those who cannot hear. In my travels through datacenters and software, I have come across musicians like myself who have not only done double-duty with their computer science and creative lives but also relate and interweave them. If they’re like me, they cannot break them apart. There are hundreds, if not thousands, of us.</description>
+    </item>
+    
+    <item>
+      <title>Weirdness of Experiment</title>
+      <link>https://sounding.com/2019/02/22/weirdness-of-experiment/</link>
+      <pubDate>Sat, 23 Feb 2019 06:47:26 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/02/22/weirdness-of-experiment/</guid>
+      <description>My job in ops has always been to keep things running. I never considered myself “working in software”, but have recently begun embracing the fact that I do. What I accomplish as an operations and infrastructure engineer is part of the system, it isn’t dislocated from its composition.
+Relatedly, I have been considering the nature of the experiment in Chaos Engineering. How continuous verification is becoming a crucial part of the complex systems we build because there really is no end.</description>
+    </item>
+    
+    <item>
+      <title>To Build or To Buy, That is the Contradiction.</title>
+      <link>https://sounding.com/2019/02/08/to-build-or-to-buy-contradiction/</link>
+      <pubDate>Sat, 09 Feb 2019 00:46:51 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/02/08/to-build-or-to-buy-contradiction/</guid>
+      <description>It’s dead simple. Focus on your team and product.
+  Yes! An easy tweetable answer! Except that it’s loaded with questions and assumptions. Instead, what I will talk about here are technology decisions. Those that really matter are about things that elevate your ability to build what you are building at the velocity you need.
+In Operations and SRE, we are not only tasked with evaluating and testing technologies, we are often requested (or sometimes instructed) to support the decisions others make.</description>
+    </item>
+    
+    <item>
+      <title>Musical Intuition meet Technology and Chaos</title>
+      <link>https://sounding.com/2018/12/26/musical-intuition-meet-technology-and-chaos/</link>
+      <pubDate>Thu, 27 Dec 2018 02:57:40 +0000</pubDate>
+      
+      <guid>https://sounding.com/2018/12/26/musical-intuition-meet-technology-and-chaos/</guid>
+      <description>Today I read through the InfoQ eMag on Chaos Engineering, and was struck by John Allspaw’s (@allspaw) contribution because it reminded me of something I jotted down on a sticky at my desk a few days ago:
+ Intuition is valid because it is learned like jazz changes.  I’m pretty stubborn and refuse to accept that music is merely a hobby of mine. When people ask me if electronic music or singing is my “hobby”, I am wincing inside.</description>
+    </item>
+    
+  </channel>
+</rss>

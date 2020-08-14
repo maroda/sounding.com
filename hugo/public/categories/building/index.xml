@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>building on Sounding</title>
+    <link>https://sounding.com/categories/building/</link>
+    <description>Recent content in building on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Mar 2019 02:00:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/categories/building/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MusiCirTechUs</title>
+      <link>https://sounding.com/2019/03/21/musicirtechus/</link>
+      <pubDate>Fri, 22 Mar 2019 02:00:23 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/03/21/musicirtechus/</guid>
+      <description>Plenty of people who work in technology are musicians. Plenty of humans are musicians, and all of us are listening, even those who cannot hear. In my travels through datacenters and software, I have come across musicians like myself who have not only done double-duty with their computer science and creative lives but also relate and interweave them. If they’re like me, they cannot break them apart. There are hundreds, if not thousands, of us.</description>
+    </item>
+    
+    <item>
+      <title>To Build or To Buy, That is the Contradiction.</title>
+      <link>https://sounding.com/2019/02/08/to-build-or-to-buy-contradiction/</link>
+      <pubDate>Sat, 09 Feb 2019 00:46:51 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/02/08/to-build-or-to-buy-contradiction/</guid>
+      <description>It’s dead simple. Focus on your team and product.
+  Yes! An easy tweetable answer! Except that it’s loaded with questions and assumptions. Instead, what I will talk about here are technology decisions. Those that really matter are about things that elevate your ability to build what you are building at the velocity you need.
+In Operations and SRE, we are not only tasked with evaluating and testing technologies, we are often requested (or sometimes instructed) to support the decisions others make.</description>
+    </item>
+    
+    <item>
+      <title>DIY Audio: UNPLUGGED</title>
+      <link>https://sounding.com/2012/04/11/diy-audio-unplugged/</link>
+      <pubDate>Thu, 12 Apr 2012 00:36:58 +0000</pubDate>
+      
+      <guid>https://sounding.com/2012/04/11/diy-audio-unplugged/</guid>
+      <description>Probably around five years ago now, while much further in the depths of a thrice-laid-off financial hole the technology industry bestowed upon me, I became fixated with actually building my own electronic instruments. Ensuing the expertise to make music that way, I departed into the wide unknown universe of DIY audio.
+The first time I encountered a small, personal modular synthesizer was during a long gallery installation and collaborative work by Achim Wollscheid in Chicago (I also happened to have given him a ride to where he was going his first night there, and had rich conversations for the short time we were all together).</description>
+    </item>
+    
+    <item>
+      <title>Line6 ignoring Mac users?</title>
+      <link>https://sounding.com/2011/12/06/line6-ignoring-mac-users/</link>
+      <pubDate>Tue, 06 Dec 2011 22:38:38 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/12/06/line6-ignoring-mac-users/</guid>
+      <description>Someone showed me this incredibly awesome looking ‘DIY’ pedal being done by Line6 called the ToneCore DSP Developer’s Kit. At first I think, aaah what a cool platform for custom DSP pedal effects, what a nice little generic pedal with cool ways of creating my own DSP configurations… you can imagine the excitement, so unfortunately diffused by this paragraph:
+ Will this platform be available on the Mac?
+Probably not, sorry.</description>
+    </item>
+    
+    <item>
+      <title>“Booglitchoo” Synth Prototype</title>
+      <link>https://sounding.com/2011/06/22/booglitchoo-synth-prototype/</link>
+      <pubDate>Thu, 23 Jun 2011 06:52:13 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/06/22/booglitchoo-synth-prototype/</guid>
+      <description>Here we go… I’ve optimized the way I’m using power, love the way the dual jfet opamps (TL082) sound, and have the mixing elements mostly decided.
+To be done on this prototype:
+ use either capacitor switching or a simple 4017 sequencer to change up the textural possibilities of the oscillator add switches to the voice modulator to allow for “skipping around” pitches instead of only up or down changes CV input  I went through quite a few opamps before finally deciding on the dual jfets, and now I really dig how they’re working with the complex waveform of the four NAND gates (NTE4093)… I use it first as a multipole low-pass filter to shape the sound of the chained oscillators.</description>
+    </item>
+    
+    <item>
+      <title>Matrix Mixering</title>
+      <link>https://sounding.com/2011/04/03/matrix-mixering/</link>
+      <pubDate>Sun, 03 Apr 2011 17:40:54 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/04/03/matrix-mixering/</guid>
+      <description>I’m building a 3×3 matrix mixer and have been scouring the Internet for examples and technical ideas. Even though a Google search can give you days of examples of opinions on which OpAmp to use at what stage, I’m more interested in the actual pedagogy of building the thing in the first place. So here are some of the better links I’ve uncovered that are useful for getting your head around the entire idea of designing a matrix mixer.</description>
+    </item>
+    
+    <item>
+      <title>New on sounding: galleries!</title>
+      <link>https://sounding.com/2011/02/20/new-on-sounding-galleries/</link>
+      <pubDate>Mon, 21 Feb 2011 04:48:44 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/02/20/new-on-sounding-galleries/</guid>
+      <description>I’ve decided to pull all my sculpture and art photography here to a central gallery, and have a new page for my sculpture that for now features most of the photos I have up on Deviant Art.
+There’s a couple of new large works going, one that’s nearly complete and another just begun, photos to come soon!</description>
+    </item>
+    
+    <item>
+      <title>Doepfer DIY audio circuits</title>
+      <link>https://sounding.com/2010/09/18/doepfer-diy-audio-circuits/</link>
+      <pubDate>Sat, 18 Sep 2010 20:47:34 +0000</pubDate>
+      
+      <guid>https://sounding.com/2010/09/18/doepfer-diy-audio-circuits/</guid>
+      <description>Check out these great DIY schematics and tutorials for audio electronics published by Doepfer… found this while working on a passive mixer for Long Beach SoundWalk.</description>
+    </item>
+    
+    <item>
+      <title>A new improv tool is born</title>
+      <link>https://sounding.com/2010/09/05/a-new-improv-tool-is-born/</link>
+      <pubDate>Sun, 05 Sep 2010 20:53:37 +0000</pubDate>
+      
+      <guid>https://sounding.com/2010/09/05/a-new-improv-tool-is-born/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My synth project: complete!</title>
+      <link>https://sounding.com/2009/03/11/my-synth-project-complete/</link>
+      <pubDate>Thu, 12 Mar 2009 07:01:29 +0000</pubDate>
+      
+      <guid>https://sounding.com/2009/03/11/my-synth-project-complete/</guid>
+      <description>Here’s something I thought I’d never see myself do in my own lifetime: build a synthesizer from scratch.
+Actually it’s a simple design: 2 555 timers in astable configuration producing square-waves. This means it’s a burst of sound every interval, pretty annoying and not very useful except for maybe starting earthquakes. So to give it a little flavor, I put a low-pass, 2-pole filter on the output of each oscillator, using a traditional operational amplifier.</description>
+    </item>
+    
+  </channel>
+</rss>

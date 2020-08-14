@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rig on Sounding</title>
+    <link>https://sounding.com/tags/rig/</link>
+    <description>Recent content in rig on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Feb 2008 02:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/rig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tangent and an Improv Rig</title>
+      <link>https://sounding.com/2008/02/01/tangent-and-an-improv-rig/</link>
+      <pubDate>Sat, 02 Feb 2008 02:56:00 +0000</pubDate>
+      
+      <guid>https://sounding.com/2008/02/01/tangent-and-an-improv-rig/</guid>
+      <description>The synth used for my Feb 8 show at Dangerous Curve, incorporated in my live electro-acoustic rig. There’s a last.fm video of the show that actually has pretty decent sound!
+What you see below is my homebuilt synth (three square wave oscillators fed through dual 2-pole lowpass filters, each metal box has an engage switch, tone control, and cutoff frequency) fed through (or not) a Boss AW-3 dynamic wah filter, an acoustic guitar contact microphone fed through (or not) an Audiobulb FZ-Bulb, a pocket shortwave radio, several found objects (near and in the tin can), and behind that a Line6 DL4, Electrix Repeater, Alesis Quadraverb and Behringer Xenyx 1622 mixer.</description>
+    </item>
+    
+  </channel>
+</rss>

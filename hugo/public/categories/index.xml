@@ -2,13 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sounding</title>
-    <link>http://hpschd.xyz/categories/</link>
+    <link>https://sounding.com/categories/</link>
     <description>Recent content in Categories on Sounding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 22:40:20 +0000</lastBuildDate>
     
-	<atom:link href="http://hpschd.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sounding.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>creativity</title>
+      <link>https://sounding.com/categories/creativity/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>listening</title>
+      <link>https://sounding.com/categories/listening/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/listening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operations</title>
+      <link>https://sounding.com/categories/operations/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sre</title>
+      <link>https://sounding.com/categories/sre/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/sre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://sounding.com/categories/technology/</link>
+      <pubDate>Sun, 17 May 2020 22:40:20 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Tech</title>
+      <link>https://sounding.com/categories/music-tech/</link>
+      <pubDate>Wed, 11 Sep 2019 20:39:41 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/music-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://sounding.com/categories/live/</link>
+      <pubDate>Sun, 08 Sep 2019 05:12:00 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>https://sounding.com/categories/poetry/</link>
+      <pubDate>Sun, 08 Sep 2019 05:12:00 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craque</title>
+      <link>https://sounding.com/categories/craque/</link>
+      <pubDate>Wed, 28 Aug 2019 22:17:02 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/craque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance</title>
+      <link>https://sounding.com/categories/performance/</link>
+      <pubDate>Fri, 16 Aug 2019 03:00:13 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>building</title>
+      <link>https://sounding.com/categories/building/</link>
+      <pubDate>Fri, 22 Mar 2019 02:00:23 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://sounding.com/categories/uncategorized/</link>
+      <pubDate>Fri, 30 Nov 2018 00:51:47 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External</title>
+      <link>https://sounding.com/categories/external/</link>
+      <pubDate>Tue, 14 Feb 2012 22:55:58 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>installation</title>
+      <link>https://sounding.com/categories/installation/</link>
+      <pubDate>Tue, 14 Feb 2012 22:55:58 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TWiki Archive</title>
+      <link>https://sounding.com/categories/twiki-archive/</link>
+      <pubDate>Fri, 23 May 2008 17:20:00 +0000</pubDate>
+      
+      <guid>https://sounding.com/categories/twiki-archive/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

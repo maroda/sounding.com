@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>john cage on Sounding</title>
+    <link>https://sounding.com/tags/john-cage/</link>
+    <description>Recent content in john cage on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Feb 2019 06:47:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/john-cage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weirdness of Experiment</title>
+      <link>https://sounding.com/2019/02/22/weirdness-of-experiment/</link>
+      <pubDate>Sat, 23 Feb 2019 06:47:26 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/02/22/weirdness-of-experiment/</guid>
+      <description>My job in ops has always been to keep things running. I never considered myself “working in software”, but have recently begun embracing the fact that I do. What I accomplish as an operations and infrastructure engineer is part of the system, it isn’t dislocated from its composition.
+Relatedly, I have been considering the nature of the experiment in Chaos Engineering. How continuous verification is becoming a crucial part of the complex systems we build because there really is no end.</description>
+    </item>
+    
+    <item>
+      <title>Living 4’33”</title>
+      <link>https://sounding.com/2019/01/19/living-433/</link>
+      <pubDate>Sat, 19 Jan 2019 08:10:42 +0000</pubDate>
+      
+      <guid>https://sounding.com/2019/01/19/living-433/</guid>
+      <description>I haven’t experienced Mute’s STUMM433 release yet, it’s not due out until May. The proceeds from its sale go to charities, so that’s a big huge plus for it already. Pulling big names like Depeche Mode and Moby will hopefully make for good sales.
+This is also not the first time 4’33” has been “recorded” for the purpose of a record release and not as part of a live performance. Frank Zappa has done it, Pauline Oliveros and the Deep Listening Band plus others, and some even got sued for it.</description>
+    </item>
+    
+    <item>
+      <title>Ubuweb posts Greenaway’s 4 American Composers</title>
+      <link>https://sounding.com/2011/12/08/ubuweb-posts-greenaways-4-american-composers/</link>
+      <pubDate>Thu, 08 Dec 2011 16:40:26 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/12/08/ubuweb-posts-greenaways-4-american-composers/</guid>
+      <description>Back in the mid 90’s before I ever got into techno music, I owned the original VHS copy of Peter Greenaway’s 1983 release 4merican Composers (natch, “Four American Composers”) and watched it constantly while in music school; I think I probably saw the Cage movie no less than 10 times.
+As a honorable musicologist is want to do, I lent my copy out to a friend who had never heard of any of them, but then never got it back because of moving across the country.</description>
+    </item>
+    
+  </channel>
+</rss>

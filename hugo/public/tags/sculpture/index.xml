@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sculpture on Sounding</title>
+    <link>https://sounding.com/tags/sculpture/</link>
+    <description>Recent content in sculpture on Sounding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Feb 2011 04:48:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://sounding.com/tags/sculpture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New on sounding: galleries!</title>
+      <link>https://sounding.com/2011/02/20/new-on-sounding-galleries/</link>
+      <pubDate>Mon, 21 Feb 2011 04:48:44 +0000</pubDate>
+      
+      <guid>https://sounding.com/2011/02/20/new-on-sounding-galleries/</guid>
+      <description>I’ve decided to pull all my sculpture and art photography here to a central gallery, and have a new page for my sculpture that for now features most of the photos I have up on Deviant Art.
+There’s a couple of new large works going, one that’s nearly complete and another just begun, photos to come soon!</description>
+    </item>
+    
+  </channel>
+</rss>
