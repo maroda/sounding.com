@@ -11,11 +11,8 @@ categories:
   - technology
 
 ---
- 
 
-<div class="wp-block-image">
-  <figure class="alignleft is-resized"><img src="https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite-1024x769.jpg" alt="" class="wp-image-1118" width="404" height="302" srcset="https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite.jpg 1024w, https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite-300x225.jpg 300w" sizes="(max-width: 404px) 100vw, 404px" /><figcaption><em>Me at the Palace of Fine Arts, workshop eve</em></figcaption></figure>
-</div>
+  <img align=right hspace=30 vspace=30 src="https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite-1024x769.jpg" alt="" class="wp-image-1118" width="404" height="302" srcset="https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite.jpg 1024w, https://sounding.com/blog/wp-content/uploads/2019/08/LL4_nite-300x225.jpg 300w" sizes="(max-width: 404px) 100vw, 404px" />
 
 Walking late one afternoon after a day deep in Cognitive Systems and <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.resilience-engineering-association.org/resources/where-do-i-start/" target="_blank">Resilience Engineering</a> workshops, chatting with one of the eminent researchers in the field, the conversation circled around common ground in joint activity and <a href="https://en.wikipedia.org/wiki/Sociotechnical_system" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">sociotechnical systems</a> sharing qualities with music ensembles. I remember agreeing how some uncategorizable _thing_ exists on both sides as an outcome, where a result far greater than merely the sum of its parts occurs.
 

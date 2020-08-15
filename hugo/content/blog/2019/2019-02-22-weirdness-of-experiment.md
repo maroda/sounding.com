@@ -14,9 +14,7 @@ tags:
   - john cage
 
 ---
-<div class="wp-block-image">
-  <figure class="alignleft is-resized"><img src="https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3.jpg" alt="" class="wp-image-1034" width="429" height="429" srcset="https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3.jpg 700w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-150x150.jpg 150w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-300x300.jpg 300w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-144x144.jpg 144w" sizes="(max-width: 429px) 100vw, 429px" /></figure>
-</div>
+  <img align=left hspace=30 vspace=30 src="https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3.jpg" alt="" class="wp-image-1034" width="429" height="429" srcset="https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3.jpg 700w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-150x150.jpg 150w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-300x300.jpg 300w, https://sounding.com/blog/wp-content/uploads/2019/02/meathacker-3-144x144.jpg 144w" sizes="(max-width: 429px) 100vw, 429px" />
 
 My job in ops has always been to keep things running. I never considered myself &#8220;working in software&#8221;, but have recently begun embracing the fact that I do. What I accomplish as an <g class="gr_ gr\_801 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar multiReplace" id="801" data-gr-id="801">operations</g> and infrastructure engineer is part of the system, it isn&#8217;t dislocated from its composition.
 

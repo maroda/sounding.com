@@ -21,9 +21,7 @@ tags:
 
 Getting around cognitive biases (like &#8220;hindsight is 20/20&#8221; or a confirmation you expect) is akin to **Listening Deeply**. I don’t mean paying more attention gives better insight. I mean what matters is the entirety of your sonic awareness.
 
-<div class="wp-block-image">
-  <figure class="alignright"><img src="/img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-300x177.jpeg" alt="" class="wp-image-1239" srcset="/img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-300x177.jpeg 300w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-768x452.jpeg 768w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-1024x603.jpeg 1024w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276.jpeg 1363w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
-</div>
+  <img align=right hspace=30 vspace=30 src="/img/2021/05/07878817-561A-41E5-8B3A-80229B32A276-300x177.jpeg" alt="" class="wp-image-1239" srcset="/img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-300x177.jpeg 300w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-768x452.jpeg 768w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276-1024x603.jpeg 1024w, /img/2020/05/07878817-561A-41E5-8B3A-80229B32A276.jpeg 1363w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 
 There is a composer / meditative approach to sound pioneered by Pauline Oliveros called **Deep Listening**. I have practiced it, all too briefly with her, but mostly with others taught by her. It is actually a discipline you can be certified to teach, which I am not, so here I refer to it as _Listening Deeply_.
 
@@ -35,9 +33,7 @@ My psychological states notwithstanding, when in this mode of Listening Deeply I
 
 Yes, difficult to fathom, but it’s (mostly) true. Of all our senses, only the sense of hearing is fundamentally _serial_ because the anatomic structures we (and other non-human animals) evolved to survive are thanks to the nature of complex sound waves.
 
-<div class="wp-block-image">
-  <figure class="alignleft"><img src="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg" alt="" class="wp-image-1240" srcset="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg 300w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-768x462.jpeg 768w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5.jpeg 808w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
-</div>
+  <img align=left hspace=30 vspace=30 src="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg" alt="" class="wp-image-1240" srcset="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg 300w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-768x462.jpeg 768w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5.jpeg 808w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 
 We may not realize that our consciousness is not called upon to immediately ascertain the streaming series of discrete pitches heard “one at a time” that lets us know it is a certain type of birdsong, breakfast frying in the skillet, or a bamboo glade. Those are all immediately recognizable mental models that we’ve _learned to intuit_ through the experience of hearing them over and over.
 
@@ -57,9 +53,7 @@ The point is also not that I am somehow moving us abstractly “beyond” the ob
 
 Give yourself a time limit (it can be super-short, seconds or minutes), and only listen. If you are “thinking” that you’re listening, you are not listening. If you find yourself anticipating what will be heard next, you are not listening. Naming objects or recognizing things? Try not to (see “no thinking”). On the other hand, if you find yourself surprised that you could hear the fly coming long before it zips by your head, you’re on the right track.
 
-<div class="wp-block-image">
-  <figure class="alignright"><img src="/img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-300x300.jpeg" alt="" class="wp-image-1241" srcset="/img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-300x300.jpeg 300w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-150x150.jpeg 150w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-768x768.jpeg 768w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-144x144.jpeg 144w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
-</div>
+  <img align=right hspace=30 vspace=30 src="/img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-300x300.jpeg" alt="" class="wp-image-1241" srcset="/img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-300x300.jpeg 300w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-150x150.jpeg 150w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-768x768.jpeg 768w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004-144x144.jpeg 144w, /img/2020/05/BBFE2501-EFA9-422E-B60C-7C8CBCB5D004.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 
 Once I am in the zone with this (_inspiration_ is another topic I will revisit soon), it feels like I am constantly inhaling, like I have to stop doing it because I need to exhale. It becomes so obviously _visceral_ that it helps to link it to breathing so I don’t forget to actually inhale. You’ll hear often that a good way to calm yourself and get into a meditative attitude is to focus on your breathing, it’s a great way to ease into Listening Deeply as well.
 

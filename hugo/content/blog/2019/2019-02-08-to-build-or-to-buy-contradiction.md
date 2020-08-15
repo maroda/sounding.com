@@ -16,9 +16,7 @@ tags:
 ---
 It&#8217;s dead simple. Focus on your team and product.
 
-<div class="wp-block-image">
-  <figure class="alignright is-resized"><img src="https://sounding.com/blog/wp-content/uploads/2019/02/breadboard.png" alt="" class="wp-image-1011" width="373" height="371" srcset="https://sounding.com/blog/wp-content/uploads/2019/02/breadboard.png 1000w, https://sounding.com/blog/wp-content/uploads/2019/02/breadboard-150x150.png 150w, https://sounding.com/blog/wp-content/uploads/2019/02/breadboard-768x766.png 768w, https://sounding.com/blog/wp-content/uploads/2019/02/breadboard-144x144.png 144w" sizes="(max-width: 373px) 100vw, 373px" /></figure>
-</div>
+  <img align=right hspace=30 vspace=30 src="/img/2019/02/breadboard.png" alt="" class="wp-image-1011" width="373" height="371" srcset="/img/2019/02/breadboard.png 1000w, /img/2019/02/breadboard-150x150.png 150w, /img/2019/02/breadboard-768x766.png 768w, /img/2019/02/breadboard-144x144.png 144w" sizes="(max-width: 373px) 100vw, 373px" />
 
 Yes! An easy tweetable answer! Except that it&#8217;s loaded with questions and assumptions. Instead, what I will talk about here are _technology decisions_. Those that really matter are about things that elevate your ability to build what you are building at the velocity you need.
 
@@ -30,9 +28,7 @@ But is it? In contrast, what happens when you need to fulfill the needs of infra
 
 So, I posit: There is no &#8220;Build or Buy&#8221;. **There is only Buy.**
 
-<div class="wp-block-image">
-  <figure class="alignleft is-resized"><img src="https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2.png" alt="" class="wp-image-1012" width="393" height="394" srcset="https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2.png 1000w, https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2-150x150.png 150w, https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2-300x300.png 300w, https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2-768x771.png 768w, https://sounding.com/blog/wp-content/uploads/2019/02/basic_vco-2-144x144.png 144w" sizes="(max-width: 393px) 100vw, 393px" /></figure>
-</div>
+  <img align=left hspace=30 vspace=30 src="/img/2019/02/basic_vco-2.png" alt="" class="wp-image-1012" width="393" height="394" srcset="/img/2019/02/basic_vco-2.png 1000w, /img/2019/02/basic_vco-2-150x150.png 150w, /img/2019/02/basic_vco-2-300x300.png 300w, /img/2019/02/basic_vco-2-768x771.png 768w, /img/2019/02/basic_vco-2-144x144.png 144w" sizes="(max-width: 393px) 100vw, 393px" />
 
 I build electronic instruments. My product is the music I make, and one the central philosophies in my approach to improvisation and performance is the concept of &#8220;original sound&#8221;. What music does a plucked cactus make when amplified, or how can a mercury tilt-switch and photoresistor create sound from electrons? The top picture here is of a breadboard, a prototype of a device that will eventually drive something called a &#8220;Voltage Controlled Oscillator&#8221;, or VCO. To the left is a photo of a professionally designed, tested, and built VCO. I have no need to design and build a VCO, even though fun, it is a distraction &#8211; both in time and money &#8211; from my main purpose: the creation of a new kind of analog synthesizer controller. I&#8217;d rather buy the VCO and the accompanying support of the experts who not only built it but are passionate about its success. Then I can focus resources on my creativity.
 

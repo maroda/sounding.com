@@ -14,7 +14,7 @@ categories:
   - technology
 
 ---
-<figure class="wp-block-image"><img src="https://sounding.com/blog/wp-content/uploads/2019/03/four_statues-1024x768.jpg" alt="" class="wp-image-1063" srcset="https://sounding.com/blog/wp-content/uploads/2019/03/four_statues.jpg 1024w, https://sounding.com/blog/wp-content/uploads/2019/03/four_statues-300x225.jpg 300w, https://sounding.com/blog/wp-content/uploads/2019/03/four_statues-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
+<img src="/img/2019/03/four_statues-1024x768.jpg" alt="" class="wp-image-1063" srcset="/img/2019/03/four_statues.jpg 1024w, /img/2019/03/four_statues-300x225.jpg 300w, /img/2019/03/four_statues-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Plenty of people who work in technology are musicians. Plenty of **humans** are musicians, and _**all**_ of us are listening, even those who cannot hear. In my travels through datacenters and software, I have come across musicians like myself who have not only done double-duty with their computer science and creative lives but also relate and interweave them. If they&#8217;re like me, they cannot break them apart. There are hundreds, if not thousands, of us. We all have different stories, came into the worlds of music and of technology from different angles and different backgrounds.
 
@@ -29,9 +29,7 @@ Recently chatting with her at [SCaLE][4], Chloe clued me in about someone close 
 These folks that are trained in synchronizing common ground through the experience of playing in musical ensembles carry a distinct advantage. Diversity and communication are the trademarks of both successful musical groups and software teams. Establishing common ground through shared learning is crucial to the modern team building and operating distributed software. It is obvious to me that ensemble music not only relates to complex systems but also to highly coordinated teamwork, to wit:
 
 <blockquote class="wp-block-quote">
-  <p>
     I&#8217;ve conducted marching bands, wind ensembles, and jazz bands<g class="gr_ gr_94 gr-alert gr_gramm gr_inline_cards gr_disable_anim_appear Punctuation multiReplace" id="94" data-gr-id="94">..</g>. They are complex, highly interdependent systems.
-  </p>
   
   <cite><a href="https://twitter.com/101010Lund">Tanner Lund</a> (SRE at Azure)</cite>
 </blockquote>
