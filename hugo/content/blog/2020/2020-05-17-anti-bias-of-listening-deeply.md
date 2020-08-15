@@ -8,7 +8,7 @@ categories:
   - creativity
   - listening
   - operations
-  - sre
+  - reliability
   - technology
 tags:
   - '#deeplistening'
@@ -33,7 +33,7 @@ My psychological states notwithstanding, when in this mode of Listening Deeply I
 
 Yes, difficult to fathom, but it’s (mostly) true. Of all our senses, only the sense of hearing is fundamentally _serial_ because the anatomic structures we (and other non-human animals) evolved to survive are thanks to the nature of complex sound waves.
 
-  <img align=left hspace=30 vspace=30 src="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg" alt="" class="wp-image-1240" srcset="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg 300w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-768x462.jpeg 768w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5.jpeg 808w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+  <figure class="alignleft"><img src="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg" alt="" class="wp-image-1240" srcset="/img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-300x180.jpeg 300w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5-768x462.jpeg 768w, /img/2020/05/70A71964-3976-419D-A36B-5576330E2FD5.jpeg 808w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 
 We may not realize that our consciousness is not called upon to immediately ascertain the streaming series of discrete pitches heard “one at a time” that lets us know it is a certain type of birdsong, breakfast frying in the skillet, or a bamboo glade. Those are all immediately recognizable mental models that we’ve _learned to intuit_ through the experience of hearing them over and over.
 

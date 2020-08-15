@@ -1,6 +1,17 @@
 ---
 title: "Music in Resilience"
-date: 2020-08-12T17:30:50-07:00
+author: craque
+type: post
+categories:
+  - operations
+  - resilience
+  - reliability
+  - technology
+tags:
+  - deeplistening
+  - complexity
+  - improvisation
+  - chaosengineering
 draft: true
 ---
 
@@ -16,7 +27,7 @@ Consider the technology teams you are in and adjacent to, or even the ones you d
 
 Derek Bailey, a well-known English guitarist and improviser, put it succinctly: “Improvisation has no existence outside of its practice”. In fact, he embodies Improvisational Music as “the practice of practice”. When that band gets together to play a show, it is just another time they’re getting together to play, and it won’t be like any other practice because they will keep learning new things.
 
-When a technology team employs Continuous Verification techniques, they are leaning into this Practice of Practice. It helps bring stubborn mental models together so the team can better navigate the complex system at hand, guiding it through turbulent conditions and learning in the process.
+When a technology team employs Chaos Engineering techniques, they are leaning into this Practice of Practice. It helps bring stubborn mental models together so the team can better navigate the complex system at hand, guiding it through turbulent conditions and learning in the process.
 
 Resilience and Diversity in complex systems is the foundation for my talk: _Music in Resilience: The Practice of Practice_. The talk juxtaposes _Improvisational Music_ and _Software Engineering_, most notably how the Joint Activities of musical performance transfer to the way we think about the Joint Activities of software operations.
 

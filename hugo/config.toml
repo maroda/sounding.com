@@ -6,7 +6,7 @@ title                   = "Sounding"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "UA-27675542-1"
 pluralizeListTitles     = false
 disableLanguages        = []
 enableEmoji             = true
@@ -26,14 +26,14 @@ enableEmoji             = true
   highlightjsLang       = []
   viewMorePostsLink     = "/blog/"
   readingTime           = true
-  imageStretch          = ""
+  imageStretch          = "h"
   removeBlur            = false
   socialShare           = ["twitter", "linkedin", "email"]
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "params.meta: description"
-    author              = "craque"
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    author              = "HTML5UP and Hugo"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -45,7 +45,7 @@ enableEmoji             = true
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
     header                = "Sounding"
@@ -56,8 +56,8 @@ enableEmoji             = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
-      shape               = "circle"
+      src                 = "img/main/sideface.jpg"
+      shape               = "hexagon"
       width               = ""
       alt                 = "Sounding"
 

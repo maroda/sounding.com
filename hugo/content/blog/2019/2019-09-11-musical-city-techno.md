@@ -7,7 +7,7 @@ url: /2019/09/11/musical-city-techno/
 categories:
   - Music Tech
   - operations
-  - sre
+  - reliability
   - technology
 tags:
   - chaosengineering

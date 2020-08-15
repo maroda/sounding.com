@@ -6,7 +6,7 @@ date: 2019-02-23T06:47:26+00:00
 url: /2019/02/22/weirdness-of-experiment/
 categories:
   - operations
-  - sre
+  - reliability
   - technology
 tags:
   - chaosengineering

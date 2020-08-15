@@ -10,7 +10,7 @@ categories:
   - listening
   - operations
   - performance
-  - sre
+  - reliability
   - technology
 
 ---
