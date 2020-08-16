@@ -4,6 +4,7 @@ author: craque
 type: post
 date: 2019-09-11T20:39:41+00:00
 url: /2019/09/11/musical-city-techno/
+featured_image: /img/2019/09/mct-fannys_nashville.jpg
 categories:
   - Music Tech
   - operations

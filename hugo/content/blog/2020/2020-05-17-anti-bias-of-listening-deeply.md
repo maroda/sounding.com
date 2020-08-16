@@ -13,8 +13,8 @@ categories:
   - improvisation
   - complexity
 tags:
-  - #deeplistening
-  - #resilience
+  - deeplistening
+  - resilience
 
 ---
  

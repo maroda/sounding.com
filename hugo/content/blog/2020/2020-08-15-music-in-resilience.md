@@ -4,12 +4,12 @@ author: craque
 type: post
 categories:
   - operations
-  - resilience
   - reliability
   - technology
   - complexity
   - improvisation
 tags:
+  - resilience
   - deeplistening
   - chaosengineering
 draft: true
