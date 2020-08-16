@@ -4,12 +4,14 @@ author: craque
 type: post
 date: 2018-11-15T06:46:48+00:00
 url: /2018/11/14/la-phil-graces-cages-europeras-1-2/
+featured_image: /img/2018/11/europeras-timing_clock-thin-1.jpeg
 categories:
   - live
   - performance
-
+tags:
+  - john cage
 ---
-<figure class="wp-block-image"><img src="https://sounding.com/blog/wp-content/uploads/2018/11/europeras-timing_clock-thin-1.jpeg" alt="" class="wp-image-939" srcset="https://sounding.com/blog/wp-content/uploads/2018/11/europeras-timing_clock-thin-1.jpeg 4032w, https://sounding.com/blog/wp-content/uploads/2018/11/europeras-timing_clock-thin-1-300x225.jpeg 300w, https://sounding.com/blog/wp-content/uploads/2018/11/europeras-timing_clock-thin-1-768x576.jpeg 768w, https://sounding.com/blog/wp-content/uploads/2018/11/europeras-timing_clock-thin-1-1024x768.jpeg 1024w" sizes="(max-width: 4032px) 100vw, 4032px" /></figure> 
+<img src="/img/2018/11/europeras-timing_clock-thin-1.jpeg" alt="" class="wp-image-939" srcset="/img/2018/11/europeras-timing_clock-thin-1.jpeg 4032w, /img/2018/11/europeras-timing_clock-thin-1-300x225.jpeg 300w, /img/2018/11/europeras-timing_clock-thin-1-768x576.jpeg 768w, /img/2018/11/europeras-timing_clock-thin-1-1024x768.jpeg 1024w" sizes="(max-width: 4032px) 100vw, 4032px" />
 
 John Cage liked to borrow. Whether in musical style or approach to theatre, the materials themselves are often not his. Musical scores evolved into graphic iconography or instruction governed by brackets of time and/or duration. Written pieces were amalgamations, [mesostics][1] “written through” other authors’ work, or more “cut-up” style constructions of various texts.  
 

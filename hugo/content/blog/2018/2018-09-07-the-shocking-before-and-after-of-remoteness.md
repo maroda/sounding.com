@@ -5,7 +5,7 @@ type: post
 date: 2018-09-07T22:41:59+00:00
 url: /2018/09/07/the-shocking-before-and-after-of-remoteness/
 categories:
-  - Uncategorized
+  - remotework
 
 ---
 I was once employed at a startup whose attitude about remote workers had begun to retrograde to the point where even simple tolerance of the practice became a hot point. Leadership was known to stroll through offices and make comments about how they didn&#8217;t see butts in seats, even frequenting some facilities on early morning Fridays just to scoff at the emptiness of the expansive &#8220;open floor plans&#8221; where interruptions and distractions were kept at a maximum. Human Resources went as far as to craft a strict remote worker policy, and included a very unpopular (and I think ultimately struck down) requirement of being in the office during &#8220;banking hours&#8221;. Multiple times, as both a senior engineer and hiring manager, I hit roadblocks with remote employee hires &#8211; really good ones.&nbsp;In fact, working from home became a privilege that had to be approved at the executive level.

@@ -6,12 +6,10 @@ date: 2019-02-09T00:46:51+00:00
 url: /2019/02/08/to-build-or-to-buy-contradiction/
 categories:
   - building
+  - operations
+  - reliability
   - technology
 tags:
-  - '#infrastructure'
-  - '#ops'
-  - '#sre'
-  - '#teamwork'
 
 ---
 It&#8217;s dead simple. Focus on your team and product.

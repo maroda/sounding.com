@@ -9,11 +9,11 @@ categories:
   - listening
   - live
   - poetry
+  - improvisation
 tags:
   - '#DFTALS'
   - '#DuetForThereminAndLapSteel'
   - '#MusicCity'
-  - improvisation
 
 ---
 <img src="/img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-1024x519.jpeg" alt="" class="wp-image-1158" srcset="/img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-1024x519.jpeg 1024w, /img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-300x152.jpeg 300w, /img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-768x390.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />

@@ -4,6 +4,7 @@ author: craque
 type: post
 date: 2019-03-22T02:00:23+00:00
 url: /2019/03/21/musicirtechus/
+featured_image: /img/2019/03/four_statues.jpg
 categories:
   - building
   - creativity

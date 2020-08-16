@@ -5,7 +5,7 @@ type: post
 date: 2018-05-26T23:40:35+00:00
 url: /2018/05/26/wumc-1998-mother-of-invention/
 categories:
-  - Uncategorized
+  - listening
 
 ---
 I&#8217;ve been clearing out shelves and&nbsp;digging through old notebooks, and came across this steno pad from the summer of 1998, exactly 20 years ago. I lived in the northern suburbs of DC, worked as a graveyard shift unix system administrator at a datacenter company called Digex, and hosted a radio show for two years while I studied in graduate school as a vocal student and specialist in experimental vocal music and opera performance. These were also the years I was heavily entrenched in the mid-Atlantic free improvisation and experimental avant-garde music and noise scene.

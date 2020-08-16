@@ -5,7 +5,7 @@ type: post
 date: 2018-03-23T21:51:33+00:00
 url: /2018/03/23/remote_primer/
 categories:
-  - Uncategorized
+  - remotework
 
 ---
 <span style="font-weight: 400;">I am the nerd who annoyed you as a roommate because I always had the phone line busy dialing into BBSes when you were pounding cheap beer to “jump up jump up and get down” in the living room, while I searched Usenet for pirated software and other nefarious files, loving the thrill of connecting to a different reality.</span>

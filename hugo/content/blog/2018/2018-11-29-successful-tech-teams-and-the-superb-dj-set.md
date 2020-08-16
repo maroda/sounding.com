@@ -4,17 +4,15 @@ author: craque
 type: post
 date: 2018-11-30T00:51:47+00:00
 url: /2018/11/29/successful-tech-teams-and-the-superb-dj-set/
-featured_image: /wp-content/uploads/2018/11/craque-thecollective_spin-smside.jpeg
+featured_image: /img/2018/11/craque-thecollective_spin-smside.jpeg
 categories:
-  - Uncategorized
-tags:
   - creativity
-  - dj
   - leadership
-  - teams
+  - dj
+tags:
 
 ---
-<figure class="wp-block-image"><img src="https://sounding.com/blog/wp-content/uploads/2018/11/craque-thecollective_spin-smside.jpeg" alt="" class="wp-image-946" srcset="https://sounding.com/blog/wp-content/uploads/2018/11/craque-thecollective_spin-smside.jpeg 720w, https://sounding.com/blog/wp-content/uploads/2018/11/craque-thecollective_spin-smside-300x225.jpeg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure> 
+<img src="/img/2018/11/craque-thecollective_spin-smside.jpeg" alt="" class="wp-image-946" srcset="/img/2018/11/craque-thecollective_spin-smside.jpeg 720w, /img/2018/11/craque-thecollective_spin-smside-300x225.jpeg 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 The term _disc jockey_ was first coined in 1935, referring of course to the phonograph discs that had become popular for recorded music. Forty years and dozens of musical genre shifts later, the Technics SL-1200 direct drive paved the way for _turntablists_, still concerned with round artifacts of engraved sound, but doing more live manipulation than just selecting and playing tunes.  
 

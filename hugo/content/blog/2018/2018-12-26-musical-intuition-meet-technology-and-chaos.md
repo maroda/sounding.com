@@ -4,6 +4,7 @@ author: craque
 type: post
 date: 2018-12-27T02:57:40+00:00
 url: /2018/12/26/musical-intuition-meet-technology-and-chaos/
+featured_image: /img/2018/12/sphere_view.png
 categories:
   - performance
   - technology
@@ -17,7 +18,7 @@ tags:
   - systems
 
 ---
-<figure class="wp-block-image"><img src="https://sounding.com/blog/wp-content/uploads/2018/12/sphere_view-1024x774.png" alt="" class="wp-image-959" srcset="https://sounding.com/blog/wp-content/uploads/2018/12/sphere_view-1024x774.png 1024w, https://sounding.com/blog/wp-content/uploads/2018/12/sphere_view-300x227.png 300w, https://sounding.com/blog/wp-content/uploads/2018/12/sphere_view-768x580.png 768w, https://sounding.com/blog/wp-content/uploads/2018/12/sphere_view.png 1196w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
+<img src="/img/2018/12/sphere_view-1024x774.png" alt="" class="wp-image-959" srcset="/img/2018/12/sphere_view-1024x774.png 1024w, /img/2018/12/sphere_view-300x227.png 300w, /img/2018/12/sphere_view-768x580.png 768w, /img/2018/12/sphere_view.png 1196w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
 
 Today I read through the [InfoQ eMag on Chaos Engineering][1], and was struck by John Allspaw&#8217;s ([@allspaw][2]) contribution because it reminded me of something I jotted down on a sticky at my desk a few days ago:
 

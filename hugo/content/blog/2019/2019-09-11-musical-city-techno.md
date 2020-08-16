@@ -100,8 +100,6 @@ He also gave a shout-out to another sociotechnical subject near and dear to my h
 
   <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
       Sweet talk on DevOps philosophy at <a href="https://twitter.com/MusicCityTech?ref_src=twsrc%5Etfw">@MusicCityTech</a> from <a href="https://twitter.com/aspleenic?ref_src=twsrc%5Etfw">@aspleenic</a>. Favorite part was calling SRE “Site Reliability Expert”, which I love. Because, folks, we’re all site reliability engineers. What we need are experts. Freudian slip? Maybe. The acronym gauntlet has been thrown.
-    
-    <a href="https://twitter.com/dtauvdiodr/status/1170409058542792704?ref_src=twsrc%5Etfw">September 7, 2019</a>
   </blockquote>
 
 This &#8216;mistake&#8217; actually fit into the talk perfectly, because eschewing the buzzwords really helped make it all about practical combinations of tool and theory, and PJ readily handed out toolset recommendations by continuously relating their practicality to the overreaching philosophy of DevOps.
