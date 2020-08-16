@@ -6,7 +6,8 @@ date: -001-11-30T00:00:00+00:00
 draft: true
 url: /?p=985
 categories:
-  - Uncategorized
+  - operations
+  - complexity
 
 ---
 Creating things is a fundamental human activity. In music, it includes many things: composition, instrumentation, preparation, production, performance, presentation, recording, distribution, consumption, listening&#8230; just to name a few. In fact, the expression of a piece of music can very quickly become a complex weave of tree-like dependencies, where many different disciplines &#8211; and humans &#8211; combine to create a unified work.

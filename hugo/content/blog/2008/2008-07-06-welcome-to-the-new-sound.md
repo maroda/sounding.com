@@ -5,7 +5,7 @@ type: post
 date: 2008-07-06T23:31:01+00:00
 url: /2008/07/06/welcome-to-the-new-sound/
 categories:
-  - Uncategorized
+  - blogging
 
 ---
 You may have noticed a slight change in interface on the blog here, it&#8217;s because I switched from the TWiki BlogPlugin to WordPress.

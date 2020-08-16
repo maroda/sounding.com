@@ -7,10 +7,10 @@ categories:
   - resilience
   - reliability
   - technology
-tags:
-  - deeplistening
   - complexity
   - improvisation
+tags:
+  - deeplistening
   - chaosengineering
 draft: true
 ---

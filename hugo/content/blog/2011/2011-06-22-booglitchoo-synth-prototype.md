@@ -7,14 +7,7 @@ url: /2011/06/22/booglitchoo-synth-prototype/
 categories:
   - building
   - Craque
-  - Uncategorized
-tags:
-  - analog
-  - circuitry
-  - DIY
-  - electronics
-  - glitch
-  - synths
+  - synthdiy
 
 ---
 Here we go&#8230; I&#8217;ve optimized the way I&#8217;m using power, love the way the dual jfet opamps (TL082) sound, and have the mixing elements mostly decided.

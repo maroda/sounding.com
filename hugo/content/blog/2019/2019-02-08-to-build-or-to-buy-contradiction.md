@@ -9,7 +9,7 @@ categories:
   - operations
   - reliability
   - technology
-tags:
+  - complexity
 
 ---
 It&#8217;s dead simple. Focus on your team and product.

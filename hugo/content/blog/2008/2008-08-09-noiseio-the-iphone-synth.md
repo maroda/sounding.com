@@ -5,7 +5,7 @@ type: post
 date: 2008-08-09T17:44:36+00:00
 url: /2008/08/09/noiseio-the-iphone-synth/
 categories:
-  - Uncategorized
+  - synthdiy
 
 ---
 [<img class="alignright" title="Noise.IO screenshot" src="http://noise.io/nio-screen2.jpg" alt="" width="200" />][1]The <a href="http://noise.io" target="_blank"><strong>noise</strong>for<strong>i</strong>ph<strong>o</strong>ne</a> looks promising as the worlds first official iphone synth, with FM synthesis and gestural parameter adjustment.

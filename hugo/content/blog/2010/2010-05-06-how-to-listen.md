@@ -4,16 +4,8 @@ author: craque
 type: post
 date: 2010-05-06T15:27:08+00:00
 url: /2010/05/06/how-to-listen/
-geo_latitude:
-  - 34.062077
-geo_longitude:
-  - -118.248788
-geo_accuracy:
-  - 5
-geo_public:
-  - 1
 categories:
-  - Uncategorized
+  - listening
 
 ---
 So much music. Nowhere to begin. Everywhere is a beginning, none end.

@@ -5,8 +5,6 @@ type: post
 date: 2008-07-19T20:08:08+00:00
 url: /2008/07/19/the-pull-of-the-unexplored/
 categories:
-  - Uncategorized
-tags:
   - creativity
   - improvisation
 

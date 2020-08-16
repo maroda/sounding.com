@@ -11,10 +11,10 @@ categories:
   - reliability
   - technology
   - improvisation
+  - complexity
 tags:
   - #deeplistening
   - #resilience
-  - #complexity
 
 ---
  
