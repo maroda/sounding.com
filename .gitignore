@@ -1,2 +1,4 @@
 .htaccess
 .terraform/
+.DS_Store
+public/

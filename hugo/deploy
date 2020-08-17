@@ -1,0 +1,8 @@
+# Uncomment this only when ready to freshly overwrite DOCROOT
+###### hugo && rsync -e'ssh -p62202' -avz --delete public/ sounding@sounding.com:/wwwroot/sounding.com/httpdocs/
+
+# *** Safe to different directory
+# hugo && rsync -e'ssh -p62202' -avz --delete public/ sounding@sounding.com:/wwwroot/sounding.com/httpdocs/hugo/
+
+# *** Safe to DOCROOT
+hugo && rsync -e'ssh -p62202' -avz public/ sounding@sounding.com:/wwwroot/sounding.com/httpdocs/
