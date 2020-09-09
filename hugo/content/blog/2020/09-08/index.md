@@ -10,14 +10,14 @@ tags:
   - arturia
   - microbrute
   - lovemyswitches
-draft:true
+draft: true
 ---
 
 ## Soft Touch
 
-This story starts with this horrible idea.
+This horrible idea.
 
-If you're unfamiliar, this is a coating on plastic parts that feels like a thick setting of rubber with a squishy sort of soft matte finish to it. I recently learned that the interiors of Ferrari supercars were outfitted with the material and apparently companies exist that specialize in its maintenance because of this.
+If you're unfamiliar, "soft-touch" is a coating on plastic parts that feels like a thick setting of rubber with a squishy sort of soft matte finish to it. I recently learned that the interiors of Ferrari supercars were outfitted with the material and apparently companies exist that specialize in its maintenance because of this.
 
 Now, I am no expert on rubber, but I do have experience with the rubber elements that hold musical instruments together. In a lion's share of cases rubber is the **first** thing that needs replacement. Soft-touch coated plastic components are no exception, becoming tacky with age.
 
