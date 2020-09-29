@@ -2,6 +2,8 @@
 title: "Music in Resilience"
 author: craque
 type: post
+date: 2020-09-29T00:00:00+00:00
+url: /2020/09/29/music-in-resilience/
 categories:
   - operations
   - reliability
@@ -12,10 +14,7 @@ tags:
   - resilience
   - deeplistening
   - chaosengineering
-draft: true
 ---
-
-You have probably heard the phrase “practice makes perfect”, but let’s take that thought _up and out_. It is really the _experience_ of practice that is more interesting!
 
 Consider a jazz band you’ve heard or seen live, or really any type of music where improvisation plays an important role. Great bands work together effortlessly, and when things go sideways or “wrong notes” are played, they quickly adapt to the changing conditions in order to keep the music going. This _emergent complex system_ manifests itself in the awesome jams you hear.
 
@@ -23,13 +22,19 @@ To approach the problem of how to better understand increasingly complex softwar
 
 And we humans are right there in the middle, with our unshareable mental models and assumptions about what others know. We are susceptible to losing _Common Ground_ all the time, but especially in a high-pressure _Joint Activity_ like musical performances… or, you know, incidents in software.
 
-Consider the technology teams you are in and adjacent to, or even the ones you don’t know about. Think about the complex system that is your software platform, that relates all these teams. When that incident happens, how much of a surprise is it? How quickly does the team adapt to the “wrong notes” and keep the music going?
-
 Derek Bailey, a well-known English guitarist and improviser, put it succinctly: “Improvisation has no existence outside of its practice”. In fact, he embodies Improvisational Music as “the practice of practice”. When that band gets together to play a show, it is just another time they’re getting together to play, and it won’t be like any other practice because they will keep learning new things.
+
+Consider the technology teams you are in and adjacent to, or even the ones you don’t know about. Think about the complex system that is your software platform, that relates all these teams. When that incident happens, how much of a surprise is it? How quickly does the team adapt to the “wrong notes” and keep the music going?
 
 When a technology team employs Chaos Engineering techniques, they are leaning into this Practice of Practice. It helps bring stubborn mental models together so the team can better navigate the complex system at hand, guiding it through turbulent conditions and learning in the process.
 
-Resilience and Diversity in complex systems is the foundation for my talk: _Music in Resilience: The Practice of Practice_. The talk juxtaposes _Improvisational Music_ and _Software Engineering_, most notably how the Joint Activities of musical performance transfer to the way we think about the Joint Activities of software operations.
+<HR>
 
-Download the slides from [Sparklecon VII 2020](https://www.dropbox.com/s/lwynxd11u2gm9sf/MattDavis-Music_in_Resilience-SparkleconVII_2020.pdf?dl=0) or see the [full video from RE:Deploy 2019](https://www.youtube.com/watch?v=87EhBrC2L1U).
+_Resilience and Diversity in complex systems is the foundation for Matt Davis's talk "Music in Resilience: The Practice of Practice". It juxtaposes _Improvisational Music_ and _Software Engineering_, most notably how the Joint Activities of musical performance transfer to the way we think about the Joint Activities of software operations. It has been given at several conferences and educational venues including Music City Tech, RE:Deploy, Disney JETA, Southern California Linux Expo (SCaLE), and Sparklecon._
+
+More resources:
+
+* Slides from [SCaLE x18 2020](https://www.dropbox.com/s/dgc7u9lkrxok28d/MattDavis-ThePracticeOfPractice__SCaLEx18.pdf?dl=0)
+* Slides from [Sparklecon VII 2020](https://www.dropbox.com/s/lwynxd11u2gm9sf/MattDavis-Music_in_Resilience-SparkleconVII_2020.pdf?dl=0)
+* [RE:Deploy 2019](https://www.youtube.com/watch?v=87EhBrC2L1U)
 
