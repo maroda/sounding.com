@@ -1,0 +1,51 @@
+<!-- Site Features to show up on the homepage
+     Configured in config.toml
+-->
+
+<h3>Features</h3>
+
+<hr>
+
+<div class="vir">
+  {{ with .Site.Params.vir.header }}<h4>{{ . | safeHTML }}</h4>{{ end }}
+  {{ with .Site.Params.vir.text }}<p>{{ . | safeHTML }}</p>{{ end }}
+  {{ with .Site.Params.vir.date }}<h5>{{ . | safeHTML }}</h5>{{ end }}
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2VR6vsx2V1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<hr>
+
+<div class="hpschd">
+  {{ with .Site.Params.hpschd.header }}<h4>{{ . | safeHTML }}</h4>{{ end }}
+  {{ with .Site.Params.hpschd.text }}<p>{{ . | safeHTML }}</p>{{ end }}
+  {{ with .Site.Params.hpschd.pic }}
+  <a href="{{ "http://www.hpschd.xyz:9999" | relLangURL}}">
+    <img src="{{ .src | absURL }}"{{ with .shape}} class="{{ . }}"{{ end }} width="{{ .width }}" alt="{{ .alt }}" />
+  </a>
+  {{ end }}
+
+  <p>
+
+  Want to give it a try? Open a shell window and send the following JSON to the API for instant Mesostic fun!<br>
+  Replace the "text" field with whatever source text you'd like, with <b>\n</b> included for line returns.<br>
+  The "spinestring" should be a single word.<br>
+
+  <style>
+  pre {
+    font-family: Courier;
+    background-color:#FFAA88;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+  </style>
+
+  <pre>curl www.hpschd.xyz:9999/app -d '{"text": "Lorem ipsum dolor sit amet, consectetur adipiscing\nelit, sed do eiusmod tempor incididunt ut labore et\ndolore magna aliqua. Ut enim ad minim veniam, quis\nnostrud exercitation ullamco laboris nisi ut aliquip\nex ea commodo consequat. Duis aute irure dolor in\nreprehenderit in voluptate velit esse cillum dolore\neu fugiat nulla pariatur. Excepteur sint occaecat\ncupidatat non proident, sunt in culpa qui officia\ndeserunt mollit anim id est laborum.\n", "spinestring": "craque"}'</pre>
+
+</div>
+
+<hr>
+
