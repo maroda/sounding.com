@@ -15,7 +15,7 @@ enableEmoji             = true
   unsafe                = true
 
 [outputs]
-  home                  = ["html", "json"]
+  home                  = ["html", "json", "rss"]
 
 [params]
   enableCDN             = false
@@ -30,7 +30,7 @@ enableEmoji             = true
   removeBlur            = false
   socialShare           = ["twitter", "linkedin", "email"]
   hideEmptyStats        = false
-
+  
   [params.meta]
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
     author              = "HTML5UP and Hugo"
@@ -60,6 +60,23 @@ enableEmoji             = true
       shape               = "hexagon"
       width               = ""
       alt                 = "Sounding"
+
+  [params.hpschd]
+    header              = "HPSCHD"
+    text                = "Mesostic Engine API written in Go (external link)"
+    url                 = "http://www.hpschd.xyz:9999"
+
+    [params.hpschd.pic]
+      src                 = "img/main/astrothc_mesostic.png"
+      shape               = ""
+      width               = ""
+      alt                 = "Mesostic from www.hpschd.xyz"
+
+  [params.vir]
+    header              = "variability in response"
+    date                = "Oct 14, 2020"
+    text                = "Weekly improvisation from the Craque studio (youtube archive of twitch.tv/craquemattic)"
+    url                 = "https://youtu.be/2VR6vsx2V1c"
 
   [params.sidebar]
     about               = "writings on music, technology, and philosophy"
