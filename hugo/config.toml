@@ -30,7 +30,7 @@ enableEmoji             = true
   removeBlur            = false
   socialShare           = ["twitter", "linkedin", "email"]
   hideEmptyStats        = false
-  
+
   [params.meta]
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
     author              = "HTML5UP and Hugo"
@@ -61,26 +61,8 @@ enableEmoji             = true
       width               = ""
       alt                 = "Sounding"
 
-  [params.hpschd]
-    header              = "HPSCHD"
-    text                = "Mesostic Engine API written in Go (external link)"
-    url                 = "http://www.hpschd.xyz:9999"
-
-    [params.hpschd.pic]
-      src                 = "img/main/astrothc_mesostic.png"
-      shape               = ""
-      width               = ""
-      alt                 = "Mesostic from www.hpschd.xyz"
-
-  [params.vir]
-    header              = "variability in response"
-    date                = "Oct 14, 2020"
-    text                = "Weekly improvisation from the Craque studio (youtube archive of twitch.tv/craquemattic)"
-    url                 = "https://youtu.be/2VR6vsx2V1c"
-
   [params.sidebar]
-    about               = "writings on music, technology, and philosophy"
-    postAmount          = 5
+    postAmount          = 3
     categories          = true
     categoriesByCount   = true
 
@@ -103,46 +85,32 @@ enableEmoji             = true
 [menu]
 
   [[menu.main]]
-    name              = "Home"
+    name              = "Features"
     identifier        = "home"
     url               = "/"
-    pre               = "<i class='fa fa-home'></i>"
+    pre               = "<i class='fa fa-music'></i>"
     weight            = 1
-
-  [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about/"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='far fa-keyboard'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Improv"
+    identifier        = "improv"
+    url               = "/improv/"
+    pre               = "<i class='far fa-book-open'></i>"
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "/categories/"
-    pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
-
-  [[menu.main]]
-    name              = "Tags"
-    identifier        = "tags"
-    url               = "/tags/"
-    pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
-
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    name              = "About"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far fa-infinity'></i>"
+    weight            = 4
 
 [Languages]
 
