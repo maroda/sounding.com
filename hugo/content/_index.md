@@ -10,8 +10,8 @@ layout = "features"
 
 Weekly improvisation from the Craque studio (youtube archive of twitch.tv/craquemattic)
 
-### Oct 14, 2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2VR6vsx2V1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Oct 21, 2020
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6G8MZsdlYqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
