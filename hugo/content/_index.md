@@ -2,7 +2,7 @@
 title = "Features"
 description = "craquemattic exploration welcomes you"
 author = "craque"
-date = "2020-10-19"
+date = "2020-10-29"
 layout = "features"
 +++
 
@@ -10,8 +10,8 @@ layout = "features"
 
 Weekly improvisation from the Craque studio (youtube archive of twitch.tv/craquemattic)
 
-### Oct 21, 2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6G8MZsdlYqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Oct 28, 2020
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EkCgfbd2R2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
