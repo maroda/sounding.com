@@ -16,7 +16,9 @@ My completely unorganized list of resources that connect resilience and improvis
 
 ## Papers
 
-Unalphabetized, somewhat in order of discovery.
+#### Davis
+
+- **[Everybody has a song](https://www.sounding.com/song98/)** is a paper I wrote in graduate school (1998) investigating the nature of vocal improvisation in experimental scores.
 
 #### Mendonça
 

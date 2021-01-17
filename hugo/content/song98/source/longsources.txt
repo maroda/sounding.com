@@ -1,0 +1,926 @@
+    Sources/"Free Improvisation"
+
+Only the professionally or fanatically interested will wade through the
+following: the very primitively formatted footnotes of my full paper, and
+the sources organized according to how they related to the general arguments
+and points I made. The more readable published paper will be available soon.
+
+Documentary bases for definition of terms . "Musication" is Rouget's (1985)
+word,
+apt for this subject. . I ask the reader's indulgence in my many long
+footnotes
+and sources from all over the map. Think of the main text as an airplane
+ride,
+and the footnotes as a view of the ground you see through the plane's
+window.
+Part of my agenda here is to move my subject from the margins toward the
+center
+of musicological and interdisciplinary discourses, and to suggest as many
+directions and provide as many entry points for future research and
+discussion as
+possible. More: the "horizontal" breadth of those discourses is matched here
+by a
+"vertical" temporal line, down to the past and up to the future. In the
+music of
+my focus (the post-1960s American and European "new and improvised music"
+that
+emerged from the free jazz movement) examples abound of innovators who
+invoke a
+past beyond their cognitive reach to guide and inspire their agendas for the
+future, and critiques of the present (composer/improviser Anthony Braxton
+(Tri-Axium Writings 1-3, Hanover NH: Tree Frog Music, 1988: xiii) calls this
+the
+"Tri-Axiom:" present mines past for future). . This terminological move, of
+course, goes right back to Pythagoras, to whom both the very word for
+philosophy
+and the logical foundations of Western music are (mythico-historically)
+ascribed.
+. Such separations come after Pythagoras, from Plato through Boethius, and
+should
+not be cast aside here before salvaging one of their logical aspects: the
+concept
+of improvement. One of the advantages of a hierarchical Great Chain of Being
+is
+the fixity of moral and spiritual standards it implies, holding out a
+situable
+goal and the hope and means to approach it--the possibility of rising or
+falling
+from one's "natural" station. Improvisation, in mutation and natural
+selection,
+is nature's means of self-improvement. The problem that began with Plato and
+crystallized in Boethius is the rigid fixing of that hierarchy; it has
+proven
+truer to phenomena to think of it as "tangled" (per current physics, a
+tangled
+hierarchy is one in which the criteria and positions of "high" and "low" are
+continually negotiated, in flux, exchanged). The relevance of all that here
+lies
+in the rigidly hierarchical distinction between composers, their
+interpreters,
+and improvisers, on the one hand; and theorists, on the other. For us, the
+relationship between the theorizing about and the making of music, between
+the
+sophos and the logos, are best understood as an interactive, mutually
+nurturing
+symbiosis constantly seeking balance, rather than a "high" noumenos and a
+"low"
+phenomenos. Improvement (and improvidence, in improvisation, musical and
+otherwise) is always thus an achievable yet conditional goal in spacetime,
+contingent on the state of the cosmic/planetary/human organism (see Jamie
+James,
+The Music of the Spheres: Music, Science and the Natural Order of the
+Universe
+[New York: Grove Press, 1993: 11, 74). . Having touched base with
+Pythagoras,
+Plato, and Boethius, I would do well to relate this enterprise of theory to
+a
+similar historical root in the microcosm of my discipline.
+Ethnomusicological
+discourse is very much rooted in 19th-century German philosophy's syntax and
+issues; the scientific work of Helmholtz (see Ian Johnston, Measured Tones:
+The
+Interplay of Physics and Music [New York: Adam Hilger, 1989] provides a
+direct
+lineage both to the way we ethnos have chosen to analyze and theorize about
+the
+musics of the world (or, in reaction, the ways we later took care not to)
+and to
+the way the (mostly) German physicists have chosen to analyze and theorize
+about
+the universe. If Helmholtz could thus serve as our Pythagoras, his
+contemporary
+Wagner might be called on as a sort of anti-Plato: an example of the
+dangerous
+mania music can induce when the universal and individual cease to coinhere
+and
+become rather incoherent in the aspects that distinguish them from each
+other (as
+the atomic bomb did with energy and mass). The legacy of Helmholtz and the
+other
+Berliners has flourished in modern technology, and in the area of music and
+theory thereof. This, of course, is the area (of indeterminacy, chance, in
+both
+musical and physical reality) that has overlapped most interactively with
+free
+improvisation when the latter cut loose from its "jazz" moorings, especially
+in
+Europe. And Wagnerism has been through the twentieth-century fire with
+Nietszche,
+Schsnberg, Hitler and Adorno, and is still present in Stockhausen's "cosmic
+music" (his description of his work). In neither Helmholzism nor Wagnerism
+are we
+yet free of scientism nor destructively grandiose individualism, though
+neither
+yet have overcome us, thanks to the pliability and submission that fire has
+wrought on them, and the power and resilience of the rest of the world. Thus
+the
+etymological charge of ethno: my discipline's Berlin founders (comparative
+musicologists Erich von Hornbostel, Jaap Kunst, Carl Stumpf and others) put
+the
+living human element back into the study of music in the person of "the
+other."
+That other induced, painfully, slowly, the consciousness in the West of the
+"self" as no more or less than one among many others in the world.
+Documentary
+bases for definition of free-jazz movement (source of free-improvisation
+practice)
+
+. See John Gray's Fire Music: A Bibliography of the New Jazz, 1959Ü1990
+(New
+York/Westport CT/London: Greenwood Press, 1991) for a comprehensive
+bibliography.
+. Derek Bailey, Improvisation: Its Nature and Practice in Music (New York:
+Da
+Capo Press, 1980). . John Litweiler, The Freedom Principle: Jazz After 1958
+(New
+York: William Morrow, 1984); Ekkehard Jost, Free Jazz (Graz: Universal
+Editions,
+1974); Joachim Berendt, Ein Fenster aus Jazz: Essays, Portraits, Reflexionen
+(Frankfurt am Main, Germany: Fischer Taschenbuch Verlag, 1986); Phillipe
+Carles
+and Jean-Louis Comolli, Free Jazz/Black Power (Paris: Champs Libre, 1971);
+Ian
+Carr, Music Outside (London: Latimer New Dimensions, 1973); Valerie Wilmer,
+As
+Serious As Your Life: The Story of the New Jazz (London: Quartet Books,
+1977);
+and Roger T. Dean, New Structures in Jazz and Improvised Music Since 1960
+(Philadelphia: Open University Press, 1992), authors variously situated in
+time
+and place, comprise a well-rounded international (American, Australian, and
+Western European) account of this movement's history. Overall, the American
+press
+has provided much more journalistic ethnography than analysis or theory, the
+Europeans and Australians rather the reverse. . My Ph.D. dissertation is on
+the
+German Free Music Production (FMP), a Berlin-based group formed in 1969 as a
+musician's cooperative to produce performances and recordings of freely
+improvised music (not exclusively--composition as surrounding context for
+improvisation free of its form is in the mix). That original mission has
+survived
+and matured the group into a seminal international exemplar of the
+free-musical
+terrain. . See Berendt; Jost, Europas Jazz 1960-1980 (Frankfurt am Main:
+Fischer
+Taschenbuch Verlag, 1987); and Bert Noglik, "EuropSische Jazz-Avantgarde:
+Emanzipation wohin?" (Jazzforschung, Vol. 11, 1979, 165-195) for the
+contemporary
+German accounts of this.
+
+Literature on improvisation
+
+. See David Sudnow, Ways of the Hand: Organization of Improvised Conduct
+(Cambridge/London: MIT Press, 1978); Jeff Pressing, "Improvisation: Methods
+and
+Models" (in John Sloboda, ed., Generative Processes in Music, Oxford
+University
+Press, Oxford, 1988, 129-78); Paul Berliner, Thinking in Jazz: The Infinite
+Art
+of Improvisation (Chicago and London: University of Chicago Press, 1994);
+and
+Edward T. Hall, "Improvisation as an Acquired, Multilevel Process"
+(Ethnomusicology, Vol. 36 No. 2, Spring/Summer, 1992) for a sense of this
+discourse emerging over time. . See Burton Peretti, The Creation of Jazz:
+Music,
+Race, and Culture in Urban America (Urbana and Chicago: University of
+Illinois
+Press, 1992); Albert Murray, The Hero and the Blues (University of Missouri
+Press, 1973); and Stanley Crouch, The All-American Skin Game, or, The Decoy
+of
+Race: The Long and Short of It, 1990-1994 (New York: Pantheon Books, 1995).
+. See
+Ben Sidran, Black Talk (New York: Da Capo Press, 1981). . See Robin Moore,
+"The
+Decline of Improvisation in Western Art Music: An Interpretation of Change"
+(IRASM, 23:1, 1992); and John Rink, "Schenker and Improvisation" (Journal of
+Music Theory, Vol. 37, No.1, 1993, 1-54). . Dean; Hans Kumpf, Postserielle
+Musik
+und Free Jazz: Wechelswirkungen und Parallelen: Berichte, Analysen,
+Werkstattgesprache (2nd ed. Rohrdorf: Rohrdorfer Musikverlag, 1981); and
+Dietrich
+Noll, Zur Improvisation im Deutschen Free Jazz: Unters, zur Asthetik frei
+improvisierter Klangflachen (Imburg: Verlag der Musikalienhandlung Wagner,
+1977)
+provide good surveys and assessments of various current compositional
+approaches
+that incorporate, even centralize, improvisation. . Though analytical work
+on
+improvisation, especially in conventional jazz studies, is more plentiful.
+Dean
+and Gary Potter, "Analyzing Improvised Jazz" (College Music Symposium, Vol.
+32,
+1992, 143-160), and their bibliographies are two of several good entry
+points to
+this work. . Larry Solomon, "Improvisation (1)" (in "Forum: Improvisation,"
+Perspectives of New Music, September, 1982: 71-78). . The few remaining
+include
+some unpublished Ph.D. dissertations and a few journal issues giving more
+space
+than usual to mostly informal, some specialized (e.g., improvisation and
+silent
+film accompaniment, or instrument- or method-specific issues), discussion.
+To
+them we can add anecdotal and prescriptive pages by authors Larry Austin,
+Eddie
+Provost, Keith Rowe, Derek Bailey, Lee Kaplan, Vinny Golia, John Silber,
+Davey
+Williams, Malcolm Goldstein, and Pauline Oliveros in "Forum: Improvisation,"
+cited with Solomon's remarks above; Ratt*'s (1996) assertion of free
+improvisation as a genus rather than a reactive eschewal of musical form;
+Nunn's
+(1996) grounding of the process in "physical/behavioral" and "perceptual
+context
+determinants," musical time, ideation, "the intelligent body" (skilled motor
+activity), and intra-group interaction to bring a state of musical
+"unpredictability" to a critical mass of inevitability; and Hovacsek's
+(1996)
+manipulations of cognitive-psychological tenets to explain musically
+improvised
+elements such as repetition, "deprivation," and "flooding/familiarity." .
+Parry-Lord (1930, 1932), which inspired applications of similar "formulism"
+to
+other traditions (such as Kernfeld's [1983] to Coltrane). . Pressing
+singles out
+Bergson as most relevant to the issue of improvisation: "Bergson saw
+intuition as
+a way to attain direct contact with a prime reality ordinarily masked from
+human
+knowledge" (149). Other recent music studies have drawn on German
+phenomenology
+(Noll, Ferrara [1991] and Friedson [1996] on Husserl and Heidegger) and
+neurobiology (several on Edelmann, 1992) in the construction of theoretical
+platforms. . Sloboda's three generative processes--performance,
+improvisation,
+composition--line up respectively with Hall's reptilian, mammalian, and
+human
+brains. The social darwinism such delineation has provoked in intercultural
+history is obvious, but the faithfulness of the linkage to individual human
+organisms is the point here. All brains, all cultures, can embody both sets
+of
+three. . Bailey (1980: 140), recounting a panel discussion of prominent
+free
+improvisers, writes that "the predominant view to emerge was that there is
+no
+such thing as improvisation, or, if there is, it is indistinguishable from
+composition." But then he asserts that "in any but the most blinkered view
+of the
+world's music, composition looks to be a very rare strain, heretical in both
+practice and theory. Improvisation is a basic instinct, an essential force
+in
+sustaining life. Without it nothing survives. As sources of creativity they
+are
+hardly comparable." Think of the truth of this survival factor in the
+examples of
+the African diasporic cultures in the West, and of the cultural renewal free
+improvisation has served in the Europe. On the other hand, as Frederick
+Rzewski
+asserted in a recent talk at Wesleyan University, improvisation and
+composition
+hardly seem like different expressions of the same brain processes when you
+consider composition as a literate process devised to grasp and fix musical
+events and experiences that are intrinsically elusive to the oral/aural
+process
+of improvisation, even of improvisations prescribed by the compositional
+process.
+. Moore's (1992) picture of the improvisation practiced by the European
+aristocracy before their fall to the bourgeoisie corroborates this. . This
+is
+Nunn's (see footnote 18) term. . Translated by David Noakes and published
+in 1956
+as Jazz--its Evolution and Essence.
+
+Documentary bases for narrative of literacy
+
+. Stravinsky's composerly use of improvisation is described in Boris
+Asaf'yev's A
+Book About Stravinsky (UMI Research Press: Ann Arbor MI, 1982: 226). Boulez
+articulates fully his problem with improvisation in Jacques Attali's Noise:
+The
+Political Economy of Music (Minneaoplis: University of Minnesota Press,
+1977:
+145-46), essentially expressing the critique of it this question suggests.
+That
+critique ripples throughout the literature on other composers and of critics
+as
+various as Stravinsky, Boulez, and Theodor Adorno, "Perennial Fashion--Jazz"
+(Prisms, Cambridge: MIT Press, 1963); John Cage (in David Revill, The
+Roaring
+Silence: John Cage: A Life, New York: Arcade Publishing, 1992: 158-59),
+Karlheinz
+Stockhausen (in Robert Morgan, Twentieth-Century Music, New York: W.W.
+Norton &
+Co., 1991: 417), Anthony Davis (in Dean, 143), and Anthony Braxton (in Dean,
+133). The common gist of their various complaints comes from the assumption
+that,
+either always or sometimes, process' purpose is product (at least) as much
+as
+expression or communication, and that composition is the only way to turn
+process
+into product (or even, we might add, product into process, in the case of
+composition for improvisers, or even, considering Glenn Gould and the
+Beatles,
+for recording rather than concert artists). See, to counter all this, Bailey
+for
+Steve Lacy's demonstrative argument to Frederick Rzweski for improvisation
+as
+itself a product made by one who eschews as a crutch the intermediate
+process
+called composition to make music. . In physics, a closed system is one that
+needs
+no energy from outside it to operate it (a plant is an open system, since it
+needs light; the regulation of heat in a thermostatically controlled house
+is a
+closed one because the house's own internal fluctuations of temperature turn
+the
+heat on and off). All closed systems are "local," or limited in definition,
+since
+everything ultimately feeds on everything else (the house's furnace needs
+fuel);
+but the question of whether the universe itself is closed (eternally
+oscillating
+between expansion and collapse) or open (per David Bohm, Wholeness and the
+Implicate Order [London: Routledge and Kegan Paul, 1980], the "explication"
+of an
+"implicate order") is still an open one in science. Manfred Miller, "Free
+Jazz:
+Eine New Thing Analyse" (Jazz Podium [May], 128-130; [June], 156-159;
+[July],
+182-184, 1966) uses these physics of general entropy and "local" formations
+of
+order therefrom as reflective of free-music making, and to similar social
+dynamics, in a move to ground free improvisation in a veritable biological
+and
+social imperative, as opposed to the abstract one of an inherited paradigm.
+Indeed, he posits free-music makers as the heralds, even progenitors, of a
+new,
+utopian society, one with roots (proclaimed by the music) in tribal shamanic
+cultures, and fruits appropriate to same in the Millennial visions of
+Western
+theologians such as Teilhard de Chardin. . This and other citations of
+Braxton
+come from both my longstanding working relationship with him and recur
+throughout
+his many published interviews. . And, a propo of the narrative of literacy
+and
+its etymologies, it was the Judeo-Christian West that came up, through the
+"people of the book" (ancient Israel), with shekinah--the presence of
+transcendent
+spirit in matter and culture--and then with "the Word made Flesh," in the
+Incarnation. This myth is the very picture of the closing of the system
+between
+physis and spiritus, unto a balanced equality of immanence and transcendence
+(indeed, very much like a thermostat). . The invocation of Augustine
+augments the
+previous footnote's introduction of our subject's historically framed
+religious
+mythos, summed up pithily by Catherine Le M*e, Chant: The Origin, Form,
+Practice
+and Healing Power of Gregorian Chant (New York: Bell Tower, 1994). Her
+depiction
+of the Medieval monastery as an expression (literacy's) of just this kind of
+freedom confronts and informs us exactly as does, say, the Sun Ra Arkestra,
+which
+was also a (orality's) freely congregated collective whose music was a
+centerpiece embedded in a mission-from-God context. (Both assemblages,
+incidentally, have exhibited similar vulnerabilities--to a descent into
+cult--issuing from a blurring and imbalance between the immanent and
+transcendent,
+and between the timeless universal and its timely expressions.) Le M*e's
+emphasis
+on vocal expression as sacrifice and vulnerability complements Attali's and
+Michel Foucault's ("Nietzsche, Genealogy, History," Michel Foucault:
+Language,
+Counter-Memory, Practice, ed. Donald Bouchard, Ithaca: Cornell University
+Press,
+1977) view of it as violence and power (more on which ahead); her discussion
+of
+"theodidactic" (God-taught) music training pertains directly to free
+improvisation. Many free improvisers, from the time of John Coltrane on,
+describe
+the music as prayer to a transcendent intelligence (see David Such,
+Avant-Garde
+Jazz Musicians: Performing 'Out There,' [Iowa City: University of Iowa
+Press,
+1993: 117-24]), something that effects the healing and health of the
+cosmic/planetary/human organism, something that grounds and tunes that
+organism.
+The silence from which plainchant continually rises and falls is close in
+concept
+to the use of silence surrounding both post-Cageian chance operations, and
+their
+service to "divine influences" (Revill, 90) and post-AACM (Braxton's Chicago
+training ground, the Association for the Advancement of Creative Musicians),
+especially the British, free improvisers (see Carr). . But their
+relationship
+does deserve some attention. To Bailey's and Rzweski's comments (see
+footnote 22)
+consider Fran*ois-Bernard Mäche's points (in Music, Myth, and Nature or The
+Dolphins of Arion (University of Edinburgh: Harwood Academic Publishers,
+1992:
+25) about the ease with which sequencer/synthesizer/computer technology
+allows
+the free improviser to capture and then rework his improvisations as
+compositions. Attali sees composition (133Ü48) as the most promising site of
+music practice, but the case he makes for it would hold as much air if the
+word
+"composition" were replaced by "improvisation." These examples all show this
+paradoxical drawing and blurring of distinctions between the two. . This
+citation
+by Gilbert Rouget, Music and Trance: A Theory of the Relations Between Music
+and
+Possession (Chicago/London: University of Chicago Press, 1985, 268) of the
+twelfth-century Arabic writer on Sufism, Ghazzali, resonates with footnote
+34:
+"'It is in him who loves God and has a passion for Him and longs to meet
+Himƒand
+no sound strikes upon his ear but he hears it from Him and in Him,' that
+music
+gives rise to wajd," (trance; emphasis mine). My emphasis underscores the
+freedom
+to as much as from sounds. Thus Braxton and Evan Parker can sound like two
+lyrical cool-jazz players duetting spontaneously in a fresh boppish style
+for one
+free improvisation, then like two serialist performers for another, then
+play
+with their own unique saxophone vocabularies for a third. They are as free
+to
+converse (and to extemporize) in a language they love as they are to create
+a new
+one in that same love (creativity). . See Willi Apel, The Notation of
+Polyphonic
+Music 900Ü1600 (Cambridge MA: The Medieval Academy of America, 1961: 88). .
+Apel's account of this is taken up in historical and contemporary texts.
+Gary
+Tomlinson, Music in Renaissance Magic: Toward a Historiography of Others
+(Chicago: University of Chicago Press, 1993) shows clearly that both musical
+texts and practices were still deeply embedded in the context of "the
+unforseen"
+(magic); pedagogical texts such as those by Johann Quantz (On Playing the
+Flute,
+New York: Schirmer Books, 1985) and Leopold Mozart (A Treatise on the
+Fundamental
+Principles of Violin Playing, London, New York: Oxford University Press,
+1951)
+evince the analytical bent away from that context that would culminate in
+Romanticism's formalism, extending through the doctrine of "the work" into
+projects such as Schenker's and Boulez'. . See Carl Dahlhaus, Foundations
+of
+Music History (Cambridge: Cambridge University Press, 1983), 4, for the rise
+of
+this reification of "the work," and Moore and Rink for the concurrent
+decline of
+improvisation in the West. . Foucault; Gary Tomlinson, "Ideologies in Aztec
+Song"
+(JAMS, 48/3, 1995, 343-79); Leo Treitler, Music and the Historical
+Imagination
+(Cambridge: Harvard University Press, 1989); and Hayden White, Tropics of
+Discourse: Essays in Cultural Criticism (Baltimore: The Johns Hopkins
+University
+Press, 1978) give a sense of how the narrative of literacy functioned during
+the
+19th and lingers in the 20th century as the vehicle of hegemonic power. .
+These
+are Wilfrid Mellers' (A Darker Shade of Pale: A Backdrop to Bob Dylan, New
+York:
+Oxford University Press, 1985, Chapter One) terms for the cultures of
+literacy
+and orality. . The literature alluding to all this includes discourses
+loosely
+and broadly tagged "postmodernist," "postcolonialist," "negritude,"
+"whiteness;"
+its two great manifestations in music/music scholarship include 1) the
+American
+redirection of the narrative of literacy through its geographical remove
+from the
+rest of the West and its closer mix of diverse peoples (e.g., Mellers' Music
+in a
+New Found Land, New York: Hillstone, 1964), and 2) the rise of the
+African-American musical traditions through their own national to the
+international (especially Western European) arenas, a rise that documents
+reappropriation of literacy's devices for the purposes of orality, and
+(incidentally) a reintroduction of improvisation to the West on its own
+terms,
+successfully reinstating it not only as a component of "low" culture but
+confounding the hierarchy between low and high introduced by the narrative
+of
+literacy in the first place (see Reid Badger, "James Reese Europe and the
+Prehistory of Jazz" [American Music, Spring 1989, 48-66]; Susan Cook, "Jazz
+as
+Deliverance: The Reception and Institution of American Jazz during the
+Weimar
+Republic" [American Music, Spring 1989, 30-47]; Michael Kater, "Forbidden
+fruit?
+Jazz in the Third Reich" [The American Historical Review, Vol. 94, Feb.
+1989,
+11-43]; J. Bradford Robinson, "Zur 'Jazz'-Rezeption der Weimarer Periode:
+Eine
+stilhistorische Jagd nach einer Rhythmus-Floskel," in ed. Wolfram Knauer,
+Jazz
+und Komposition, Jazz-Institut Darmstadt, Germany, 1991, 11-25]; Scott
+DeVeaux,
+"The Emergence of the Jazz Concert, 1935Ü1945" [American Music, Spring 1989,
+6-31]; and Noglik for a sense of the power of this African-American coup in
+Western strongholds as diverse as America and Germany throughout the first
+half
+of the century; and Crouch and Kumpf for the extent of that power since).
+Documentary bases for narrative of the marriage of literacy and orality
+
+. Tomlinson's (1993) Foreword establishes his "hermeneutics" as drawn from
+the
+work of Riceouer and Gadamer, and his "archaeology" from that of Foucault.
+Ludwik
+Bielawski, "History in Ethnomusicology" (Yearbook for Traditional Music 17,
+1985:
+8-15), posits a full seven different conceptions/representations of time and
+history to go with our conventional linear chronology, including a
+"composition
+and performance" time zone and zones peculiar to the speeds of sound and
+light. .
+See J. Nigro Sansonese, The Body of Myth: Mythology, Shamanic Trance, and
+the
+Sacred Geography of the Body (Rochester VT: Inner Traditions International,
+1994)
+for a brilliant affirmation of this model, one that brings new theoretical
+life
+to the already lively postulations about revelations of the archaic in
+innovation
+made by our recent and current improvisers and composers, such as Cage,
+Harry
+Partch, Alvin Lucier, Oliver Messiaen, Leo Smith, George Lewis, and Anthony
+Braxton. Paul Connerton, How Societies Remember (Cambridge [England]/New
+York:
+Cambridge University Press, 1989), persuasively posits the collectively
+interactive and synergetic consciousness of many such bodies as constituting
+and
+constituted by memory and intent even at those moments when they
+deliberately try
+to make a complete break with a past and to construct willfully and launch
+upon a
+new present and future. . Ed. Joscelyn Godwin, Cosmic Music: Musical Keys
+to the
+Interpretation of Reality (Rochester, Vt.: Inner Traditions, 1989). . In
+other
+words, musica humana, the realm of Sansonese, Rouget, and Ernest McClain,
+The
+Myth of Invariance: The Origin of the Gods, Mathematics and Music from the
+Rg
+Veda to Plato (Boulder & London: Shambhala, 1978); and musica mundana, that
+of
+Mäche and Murray Schafer, The Tuning of the World: Toward a Theory of
+Soundscape
+Design (Philadelphia: University of Pennsylvania Press, 1980). . Basil
+Davidson,
+"The Ancient World and Africa: Whose Roots?" (Race and Class, XXIX 2, 1987);
+and
+Terrence McKenna, Food of the Gods: The Search for the Original Tree of
+Knowledge: A Radical History of Plants, Drugs, and Human Evolution (New
+York:
+Bantam Books, 1994). . Barbara Walker, The Woman's Encyclopedia of Myths
+and
+Secrets (San Francisco: Harper & Row, 1983). . Diana Deutsch, "Paradoxes of
+Pitch" (Scientific American, August, 267, 1992, 88Ü90); Harry Powers, "The
+Genesis of Language and Music" (Ethnomusicology 36, 1992, 147Ü70); John
+Blacking,
+How Musical is Man? (Seattle: University of Washington Press, 1993); Charles
+Suhor, "Jazz Improvisation and Language Performance: Parallel Competencies"
+(Etc.
+43: 133-40, Summer, 1986). See also Rouget's chapter on opera, and James
+(123)
+for the suggestion that different musical phenomena such as
+Schsnberg'ssprechstimme, African-American, and ancient bardic declamation
+all
+evince these links. . Dudley Young, Origins of the Sacred: The Ecstasies of
+Love
+and War (New York: St. Martin's Press, 1991). . As the study of "chaos" by
+physicists demonstrates so powerfully in the "butterfly effect," that of a
+butterfly's wings in China on the weather system over North America.
+Documentary
+references in statement of theory of free improvisation . St. Anselm's
+"proof" of
+the existence of God was that there was something rather than nothing. Cage
+discovered this in the sound of his own organism's "silence" when in a
+diachronic
+chamber free of sounds external to it (see James Pritchett, The Music of
+John
+Cage [Cambridge/New York: Cambridge University Press, 1993: 75]). . See
+Richard
+Woodward, "A Rage Supreme" (Village Voice, Aug. 9, 1994); Kevin Whitehead,
+"Death
+to 'the Avant-Garde'" (Village Voice, March 21, 1995); and Ronald Radano,
+"Jazz
+Recast" (in his New Musical Figurations: Anthony Braxton's Cultural
+Critique,
+Chicago/London: University of Chicago Press, 1993, 269Ü76) for a sense of
+the
+Lincoln Center controversy. . Theodor Adorno, Philosophy of Modern Music
+(New
+York: The Seabury Press, 1973; and Leonard Bernstein, The Unanswered
+Question
+(The Norton Lectures [Columbia M4X 33032]).
+
+Sources
+
+Adorno, Theodor. 1963. "Perennial Fashion--Jazz." In Prisms. Cambridge: MIT
+Press.
+Adorno, Theodor. 1973. Philosophy of Modern Music. New York: The Seabury
+Press.
+Apel, Willi. 1961. The Notation of Polyphonic Music 900Ü1600. Cambridge MA:
+The Medieval Academy of America.
+
+Attali, Jacques. 1977. Noise: The Political Economy of Music. Minneaoplis:
+University of Minnesota Press.
+
+Badger, R. Reid. 1989. "James Reese Europe and the Prehistory of Jazz."
+American Music, Spring 48-66.
+Bailey, Derek. 1980. Improvisation: Its Nature and Practice in Music. New
+York: Da Capo Press.
+
+Berendt, Joachim Ernst. 1986. Ein Fenster aus Jazz: Essays,
+Portraits, Reflexionen. Frankfurt am Main, Germany: Fischer Taschenbuch
+Verlag.
+Bernstein, Leonard. 1973. The Unanswered Question. The Norton Lectures
+(Columbia M4X 33032).
+
+Bielawski, Ludwik. 1985. "History in Ethnomusicology." Yearbook for
+Traditional Music 17: 8-15.
+
+Blacking, John. 1993. How Musical is Man? Seattle:
+University of Washington Press.
+
+Bohm, David. 1980. Wholeness and the Implicate
+Order. London: Routledge and Kegan Paul.
+
+Brown, Lee B. 1991. "The Theory of Jazz
+Music 'It Don't Mean a Thing . . .'" The Journal of Aesthetics and Art
+Criticism.
+49:2 Spring.
+
+Carles, Phillipe and Comolli, Jean Louis. 1971. Free Jazz/Black
+Power. Paris: Champs Libre.
+
+Carr, Ian. 1973. Music Outside. London: Latimer New
+Dimensions.
+
+Clarke, Eric F. 1992. "Improvisation, Cognition and Education." In
+Paynter, John; Howell, Tim; Orton, Richard; and Seymour, Peter (eds.).
+Companion
+to Contemporary Musical Thought, Vol. 2. London and New York: Routledge:
+787-802.
+Cook, Susan C. 1989. "Jazz as Deliverance: The Reception and Institution of
+American Jazz during the Weimar Republic." American Music, Spring: 30-47.
+
+Crouch,
+Stanley. 1995. The All-American Skin Game. New York: Pantheon Books.
+Dahlhaus,
+Carl. 1983. Foundations of Music History. Cambridge: Cambridge University
+Press.
+Davidson, Basil. 1987. "The Ancient World and Africa: Whose Roots?" Race and
+Class, XXIX 2.
+
+Dean, Roger T. 1992. New Structures in Jazz and Improvised Music
+Since 1960. Philadelphia: Open University Press.
+
+Deutsch, Diana. 1992. "Paradoxes
+of Pitch." Scientific American, August, 267:88Ü90.
+
+DeVeaux, Scott. 1989. "The
+Emergence of the Jazz Concert, 1935Ü1945." American Music, Spring, 6-31.
+
+Edelman,
+Gerald M. 1992. Bright Air, Brilliant Fire: On the Matter of the Mind.
+HarperCollins.
+
+Ferrara, Lawrence. 1991. Philosophy and the Analysis of Music.
+Westport CT: Greenwood Press.
+
+Foucault, Michel. 1977. "Nietzsche, Genealogy,
+History." In Michel Foucault: Language, Counter-Memory, Practice. Ed. Donald
+Bouchard. Ithaca: Cornell University Press.
+
+Friedson, Stephen. 1996. The Dancing
+Prophets: Musical Experience in Tumbuka Healing. Chicago, IL: University of
+Chicago Press. Gioia, Ted. 1987. "Jazz: The Aesthetics of Imperfection." The
+Hudson Review Vol. 39, Winter: 585-600.
+
+Gray, John. 1991. Fire Music: A
+Bibliography of the New Jazz, 1959Ü1990. New York/Westport CT/London:
+Greenwood
+Press.
+
+Hall, Edward T. 1992. "Improvisation as an Acquired, Multilevel Process."
+Ethnomusicology Vol. 36, No. 2, Spring/Summer.
+
+Hanslick, Eduard. 1885/1974. The
+Beautiful in Music. New York: The Bobbs-Merrill Co.
+
+Hovancsek, Mike.
+1996."Cognitive Disruption Theory." the improvisor. Vol. XI, March: 79-82.
+James,
+Jamie. 1993. The Music of the Spheres: Music, Science and the Natural Order
+of
+the Universe. New York: Grove Press.
+
+Johnston, Ian. 1989. Measured Tones: The
+Interplay of Physics and Music. New York: Adam Hilger.
+
+Jost, Ekkehard. 1974. Free
+Jazz. Graz: Universal Editions.
+
+Jost, Ekkehard. 1987. Europas Jazz 1960-1980.
+Frankfurt am Main: Fischer Taschenbuch Verlag.
+
+Kater, Michael H. 1989. "Forbidden
+fruit? Jazz in the Third Reich." The American Historical Review, Vol. 94,
+Feb.
+11-43.
+
+Keil, Charles M. H. 1995. "The Theory of Participatory Discrepancies: A
+Progress Report." Ethnomusicology Vol. 39, Winter: 1-19, 73-100.
+
+Kernfeld, Barry.
+1983. "Two Coltranes." Annual Review of Jazz Studies 2. New Brunswick NJ:
+7-66.
+Kumpf, Hans. 1981. Postserielle Musik und Free Jazz: Wechelswirkungen und
+Parallelen: Berichte, Analysen, Werkstattgesprache. 2nd ed. Rohrdorf:
+Rohrdorfer
+Musikverlag.
+
+Le M*e, Katharine. 1994. Chant: The Origin, Form, Practice and
+Healing Power of Gregorian Chant, New York: Bell Tower.
+
+Lewis, George E. 1996.
+"Improvised Music After 1950: Afrological and Eurological Perspectives."
+Black
+Music Research Journal, Vol. 16, Spring: 91-122.
+
+Litweiler, John. 1984. The
+Freedom Principle: Jazz After 1958. New York: William Morrow.
+
+Mäche,
+Fran*ois-Bernard. 1992. Music, Myth, and Nature or The Dolphins of Arion.
+University of Edinburgh: Harwood Academic Publishers.
+
+McClain, Ernest G. 1978.
+The Myth of Invariance: The Origin of the Gods, Mathematics and Music from
+the Rg
+Veda to Plato. Boulder & London: Shambhala.
+
+McKenna, Terrence. 1994. Food of the
+Gods: The Search for the Original Tree of Knowledge: A Radical History of
+Plants,
+Drugs, and Human Evolution. New York: Bantam Books.
+
+Mellers, Wilfrid. 1964. Music
+in a New Found Land. New York: Hillstone.
+
+Mellers, Wilfrid. 1985. A Darker Shade
+of Pale: A Backdrop to Bob Dylan . New York: Oxford University Press.
+
+Miller,
+Manfred. 1966. "Free Jazz: Eine New Thing Analyse." Jazz Podium (May ):
+128-130;
+(June): 156-159; (July): 182-184. Moore, Robin. 1992. "The Decline of
+Improvisation in Western Art Music: An Interpretation of Change." IRASM
+(23:1).
+Mozart, Leopold (1719-1787). 1951. A treatise on the fundamental principles
+of
+violin playing. London, New York: Oxford University Press.
+
+Murray, Albert. 1973.
+The Hero and the Blues. University of Missouri Press.
+
+Noglik, Bert. 1987.
+"Aktuelle Aspekte der Identitat von Jazz und 'Improvisierter Musik' in
+Europa:
+Differenziertes Selbstverstandnis und Internationalisierung." Jazzforschung,
+Vol.
+19, 177-86.
+
+Noglik, Bert. 1979. "Europaeische Jazz-Avantgarde: Emanzipation
+wohin?" Jazzforschunq, Vol. 11: 165-195.
+
+Noll, Dietrich J. 1977. Zur
+Improvisation im Deutschen Free Jazz: Unters, zur Asthetik frei
+improvisierter
+Klanaflachen. Imburg: Verlag der Musikalienhandlung Wagner.
+
+Nunn, Tom. 1996. "A
+Theoretical Framework for Free Improvisation." the improvisor. Vol. XI,
+March:
+72-78.
+
+Paynter, John; Howell, Tim; Orton, Richard; and Seymour, Peter (eds.).
+1992. Companion to Contemporary Musical Thought, Vol. 2. London and New
+York:
+Routledge.
+
+Peretti, Burton W. 1992. The Creation of Jazz: Music, Race, and
+Culture in Urban America. Urbana and Chicago: University of Illinois Press.
+Powers, Harry. 1992. "The Genesis of Language and Music," Ethnomusicology
+(36:147Ü70).
+
+Pritchett, James. 1993. The Music of John Cage. Cambridge/New York:
+Cambridge University Press.
+
+Quantz, Johann Joachim (1697-1773). 1985. Versuch
+einer Anweisung die Flste traversiere zu spielen. New York: Schirmer Books.
+Ratt*, Michel. 1996. "R*interpr*ter l'improvisation musicale:
+L'improvisation
+comme forme." Musicworks. No. 66, Fall: 25-35.
+
+Revill, David. 1992. The Roaring
+Silence: John Cage: A Life. New York: Arcade Publishing.
+
+Robinson, J. Bradford.
+1991. "Zur 'Jazz'-Rezeption der Weimarer Periode: Eine stilhistorische Jagd
+nach
+einer Rhythmus-Floskel." In Knauer, Wolfram, ed., Jazz und Komposition,
+Jazz-Institut Darmstadt, Germany, 11-25.
+
+Rouget, Gilbert. 1985. Music and Trance:
+A Theory of the Relations Between Music and Possession. Chicago/London:
+University of Chicago Press.
+
+Sansonese, J. Nigro. 1994. The Body of Myth:
+Mythology, Shamanic Trance, and the Sacred Geography of the Body. Rochester
+VT:
+Inner Traditions International.
+
+Schafer, Murray. 1980. The Tuning of the World:
+Toward a Theory of Soundscape Design. Philadelphia: University of
+Pennsylvania
+Press.
+
+Schopenhauer, Arthur. The World as Will and Representation. New York:
+Dover Publications, 1966.
+
+Sloboda, John A. (ed.). 1988. Generative Processes in
+Music: the Psychology of Performance, Improvisation, and Composition.
+Oxford:
+Clarendon Press; New York: Oxford University Press.
+
+Such, David G. 1993.
+Avant-Garde Jazz Musicians: Performing 'Out There'. Iowa City: University of
+Iowa Press.
+
+Sudnow, David. 1978. Ways of the Hand: Organization of Improvised
+Conduct. Cambridge/London: MIT Press.
+
+Tomlinson, Gary. 1993. Music in Renaissance
+Magic: Toward a Historiography of Others. Chicago: University of Chicago
+Press.
+
+Treitler, Leo. 1989. Music and the Historical Imagination. Cambridge:
+Harvard
+University Press.
+
+Various authors. 1982. Childs, Barney and Hobbs, Christopher,
+eds. "Forum: Improvisation." Perspectives of New Music, September.
+
+White, Hayden.
+1978. Tropics of Discourse: Essays in Cultural Criticism. Baltimore: The
+Johns
+Hopkins University Press.
+
+Whitehead, Kevin. 1995. "Death to 'the Avant-Garde.'"
+Village Voice, March 21.
+
+Wilmer, Valerie. 1977. As Serious As Your Life: The
+Story of the New Jazz. London: Quartet Books.
+
+Woodward, Richard. 1994. "A Rage
+Supreme." Village Voice, Aug. 9.
+
+Young, Dudley. 1991. Origins of the Sacred: The
+Ecstasies of Love and War. New York: St. Martin's Press.
+
+"Corresponding Literature" (Fig. 3) The literature corresponding to the top
+level (1) is that about
+free jazz as developed by African-American artists in the 1950sÜ60s and
+picked up
+by Europeans in the late '60s/early '70s (see Gray). I draw from these
+sources
+and my own fieldwork and journalism on free players, and from the articles
+and
+books about specific artists and groups. Whatever I propose for a theory,
+whatever I say along the way in formulating it, whatever sources from other
+disciplines I deem pertinent--and however that--is in the light of the
+logical-mythical information within these sources. The third level, of fewer
+and
+larger circles, denotes ancient systems and practices with which we have no
+longer a direct connection but which still influence us explicitly through
+the
+documentation that survives about them, as it resonates with or speaks to
+our own
+current experiences; or implicitly, through vestiges and branches still
+alive in
+current music. Examples are Western Medieval chant and later modal
+polyphony,
+pre-Melakarta Indian music, pre-colonial gamelan, ancient Greek (from
+Pythagoras
+to Boethius), ancient Egyptian and Asian traditions as gleaned from texts
+and
+pictures. Other sources: Le M*e (on Western chant), Rouget (on ancient
+Israel,
+Greece, and Arabia), Godwin and James (on the specifically musicosophical
+perennial traditions of Western "speculative music").
