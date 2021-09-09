@@ -1,0 +1,23 @@
+Cross-cutting cleavages of art and science terminology show up daily in our regular work with socio-technical systems. Who doesn't fondly recall our last incident war room and its postmortem as much as those early product cave sessions with the occasional programming spike to ensure we have the pillars of observability as table stakes and not lingering technical debt?
+
+Disciplines borrow ideas and words from each other all the time in strikingly diverse ways. Humans find it natural to exploit shared metaphors to gain pathways to understanding, because somewhere deep there is an embedded pattern that matches or is itching to be expanded. For DeveloperWeek 2021, I shared my perspectives on navigating the difficult headwaters of three categories: the Robust, the Reliable, and the Resilient.
+
+Some of the more difficult concepts in philosophy and technology creeped their way into my understanding through metaphor. However, when things get hairy, layers of abstraction - like metaphors - can become dimensions of ambiguity. They can divide our shared understanding and create unnecessary obstacles in coordination.
+
+For instance, 'orchestration' sits as a category of work in two fields many humans often straddle: music and computers. Categories like this one are messy, heavy with the experiences of individual minds having built the concepts through lower level metaphors internalized throughout a lifetime of interacting with the physical world (see George Lakoff's concept of the "embodied mind" if you're more curious). Because experience and context have a great deal to do with the way we understand a concept, you will get wildly different answers for an understanding of the word 'orchestration'.
+
+Ambiguity is a fluctuating continuous reshaping moment by moment as a diverse chaotic spectrum of change. We face it in our networked software systems a great deal. How can we extract the usefulness out of something as common as a word? Do words even matter? William S Burroughs said "language is a virus", and I have seen it in the challenges to a word's progeny, pecking at it with post-truths and cherry-picking definitions for our own purposes. Then we wrongly assume others understand the category as we do, or we reject the term over our own variation, leading to more ambiguity.
+
+Instead of fighting these battles, the adaptive socio-technical worker embraces ambiguity. They treat such situations as the perfect opportunity to open new dimensions, to collectively learn and discover the unknown instead of fear it. Absorbing the perspective of another mind like this enriches the diversity of our teams' abilities to solve success in complex adaptive systems. 
+
+At the core of this talk is a phrase from the book Diversity and Complexity (Scott Page, DATE) to describe core attributes of a complex system: "Diverse, interdependent, networked entities that can adapt." It is through our ability to adapt that we are able to survive, bringing with it the incredible ingenuity of the human mind. For this talk, I decided a good way to show a few paths where I navigated the space of all these words was when I recognized Resilience in something as simple as the Groove of a vinyl record.
+
+It is through this mind that we are able to stack metaphors in the first place and have interconnected thought. The things we automatically apply through practice and experience become so salient that we often refer to them as instinct instead of learned intuition. Indeed, once past defining and preparing we humans are ready to get to the doing.
+
+What will always be true is that what to do will not always be clear. Even if we think we know what feels Robust, it may not be under certain (or most!) conditions, and comes with tradeoffs.
+
+We only know how Reliable the system is by its history.
+
+Groups may try to show how they build Resilience, while it is clear one cannot build something that emerges naturally. You can build the circumstances in which it may appear, as a jazz band does when they practice improvisation together, or when an organization creates a rotating team for sharing adaptive capacity.
+
+The takeaway is that it's OK to allow things to be blurry at the edges. More precise measuring and automating may ignore surprises that appear outside of these boundaries, so we should allow ourselves to see that the boundaries are not well defined.
