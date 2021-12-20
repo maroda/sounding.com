@@ -2,16 +2,23 @@
 title = "Features"
 description = "craquemattic exploration welcomes you"
 author = "craque"
-date = "2020-10-29"
+date = "2021-12-20"
 layout = "features"
 +++
 
-## Variability in Response
+## Channel Updates
 
-Weekly improvisation from the Craque studio (youtube archive of twitch.tv/craquemattic)
+Semi-Weekly improvisations from the Craque studio.
 
-### Oct 28, 2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EkCgfbd2R2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Nov 27, 2021
+
+Experiments with multi-cam recordings, working with Final Cut Pro and learning that mixing significantly long video clips of different frame rates will shift reality quite a bit. Noted! Although unless you're really paying close attention, there's not much that gives the drifting sync problem away.
+
+This was recorded Wednesday evening when I was blessed with no migraine or hyperacusis, so the session went quite long due to my sheer enjoyment of playing music for an extended period.
+
+I feel like the spirit of Princess, who we lost at the ripe age of 18, flows through this one. She would have been here, diligent cat on a synth in space, listening and purring along, we'll miss her forever. This is for her.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mv98xYL8xuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
