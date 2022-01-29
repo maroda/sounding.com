@@ -56,7 +56,7 @@ enableEmoji             = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/sideface.jpg"
+      src                 = "img/main/upsynthface.png"
       shape               = "hexagon"
       width               = ""
       alt                 = "Sounding"

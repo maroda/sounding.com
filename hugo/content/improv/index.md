@@ -18,8 +18,6 @@ My unorganized list of resources that connect resilience and improvisation throu
 
 References for a piece I wrote that was adapted for **The New Stack** (_Dec 16, 2021_) entitled <i><a href="https://thenewstack.io/site-reliability-engineering-and-the-art-of-improvisation/">Site Reliability Engineering and the Art of Improvisation</a></i>.
 
-An expanded, unexpurgated version of the article is available on the Sounding Blog as <b><a href="/2021/12/20/practice-of-practice-gamelan/">Practice of Practice Gamelan</a></b>.
-
 * **Bailey, Derek** (1980). _Improvisation: Its Nature and Practice in Music._ Da Capo Press. <br>https://www.goodreads.com/book/show/341932.Improvisation
 * **Cleese, John** (2020). _Creativity: A Short and Cheerful Guide. Hutchinson._ <br>https://www.goodreads.com/book/show/50719532-creativity
 * **Cook, Richard I.; Woods, DD.** (2017). _Above the line, below the line: A preview of the SNAFUcatchers Stella Report._ Keynote from O’Reilly Velocity Conference, NYC. <br>https://www.oreilly.com/radar/above-the-line-below-the-line/
