@@ -10,15 +10,11 @@ layout = "features"
 
 Semi-Weekly improvisations from the Craque studio.
 
-### Nov 27, 2021
+### March 26, 2022
 
-Experiments with multi-cam recordings, working with Final Cut Pro and learning that mixing significantly long video clips of different frame rates will shift reality quite a bit. Noted! Although unless you're really paying close attention, there's not much that gives the drifting sync problem away.
+_Variations on an Oscillator (Middlemarch for Kary)_
 
-This was recorded Wednesday evening when I was blessed with no migraine or hyperacusis, so the session went quite long due to my sheer enjoyment of playing music for an extended period.
-
-I feel like the spirit of Princess, who we lost at the ripe age of 18, flows through this one. She would have been here, diligent cat on a synth in space, listening and purring along, we'll miss her forever. This is for her.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mv98xYL8xuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtwPM5T9_Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
