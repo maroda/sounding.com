@@ -37,7 +37,7 @@ That's not what happened. Humans happened. IDM ranges from everything between at
 
 Yes, when we talk about "DevOps" we are immediately left with a watery taste in our mouths, like when you eat good ice cream but it has that tinge of freezer burn on it that tastes vaguely like fluorine. Everybody gets what you mean, but when you get into the details of it, things get pretty gross quickly.
 
-The beautiful thing is that the categories each of us come to understand are a product of our metaphor-driven brain. We embody what we understand! A category is something very subjective to us even when it pretends to have an objective definition. A person cannot possibly *know* every angle of what a category *means*, even if they can define it and read about it. The category will obstensiblly *mean* something different to every other person.
+The beautiful thing is that the categories each of us come to understand are a product of our metaphor-driven brain. We embody what we understand! A category is something very subjective to us even when it pretends to have an objective definition. A person cannot possibly *know* every angle of what a category *means*, even if they can define it and read about it. The category will *mean* something different to every other person.
 
 So, also like IDM, humans have adapted the term in unexpected proportions away from what it originally meant. I'm not here to argue what this defintion is, but point out that it represents what we actually want: cooperation, collaboration, and coordination. **Co co co** is what I call it now (just call me Keef Cowboy).
 
