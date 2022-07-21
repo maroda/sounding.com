@@ -10,11 +10,11 @@ layout = "features"
 
 Semi-Weekly improvisations from the Craque studio.
 
-### March 26, 2022
+### July 18, 2022
 
-_Variations on an Oscillator (Middlemarch for Kary)_
+This one is getting a ton of views for some reason, now topping 1500!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TtwPM5T9_Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U19kPxvjkE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
