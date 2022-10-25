@@ -88,7 +88,7 @@ enableEmoji             = true
     name              = "Features"
     identifier        = "home"
     url               = "/"
-    pre               = "<i class='fa fa-music'></i>"
+    pre               = "<i class='fa fa-rainbow'></i>"
     weight            = 1
 
   [[menu.main]]
@@ -103,6 +103,13 @@ enableEmoji             = true
     identifier        = "improv"
     url               = "/improv/"
     pre               = "<i class='far fa-book-open'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "DJ"
+    identifier        = "dj"
+    url               = "/dj/"
+    pre               = "<i class='far fa-music'></i>"
     weight            = 3
 
   [[menu.main]]
