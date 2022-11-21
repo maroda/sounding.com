@@ -5,6 +5,7 @@ author = "craque"
 date = "2021-12-20"
 layout = "features"
 +++
+_find me on <a rel="me" href="https://mastodon.art/@dtauvdiodr">mastodon</a>_
 
 ## \#MyVinylShelf
 
