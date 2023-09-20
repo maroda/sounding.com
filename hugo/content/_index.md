@@ -5,7 +5,7 @@ author = "craque"
 date = "2023-06-13"
 layout = "features"
 +++
-_find me on <a rel="me" href="https://mastodon.art/@dtauvdiodr">mastodon</a>_
+_find me on <a rel="me" href="https://c.im/@dtauvdiodr">mastodon</a>_
 
 ## Channel Updates
 
