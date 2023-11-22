@@ -11,8 +11,7 @@ paginate                = 10
 summaryLength           = 0
 buildDrafts             = false
 buildFuture             = false
-
-# googleAnalytics = "G-1LS1VHM8Y9"
+googleAnalytics         = "G-1LS1VHM8Y9"
 
 [imaging]
   anchor = 'Center'
