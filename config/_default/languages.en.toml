@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sounding"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006, January 2"
+  logo = "img/stone-on-strings.png" # == <site>/assets/img/file
+  description = "Complexity . Music . Technology . Intuition . Poetry . Listening"
+  copyright = "© { year } [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+
+[author]
+  name = "craquemattic"
+  image = "img/upsynthface.png"
+  headline = "music + technology + resilience"
+  bio = "matt davis, complex personage"
+  links = [
+    { email = "mailto:maroda@gmail.com" },
+    { facebook = "https://www.facebook.com/craque" },
+    { github = "https://github.com/maroda" },
+    { instagram = "https://www.instagram.com/dtauvdiodr/" },
+    { linkedin = "https://www.linkedin.com/in/mattcookedavis/" },
+    { mastodon = "https://c.im/@dtauvdiodr" },
+    { youtube = "https://youtube.com/dtauvdiodr" },
+    { link = "https://popg.xyz/" },
+   ]

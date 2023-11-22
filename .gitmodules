@@ -1,9 +1,4 @@
-[submodule "hugo/themes/ananke"]
-	path = hugo/themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "hugo/themes/bento"]
-	path = hugo/themes/bento
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "hugo/themes/hugo-future-imperfect-slim"]
-	path = hugo/themes/hugo-future-imperfect-slim
-	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
