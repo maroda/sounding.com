@@ -11,9 +11,9 @@ categories:
   - poetry
   - improvisation
 tags:
-  - '#DFTALS'
-  - '#DuetForThereminAndLapSteel'
-  - '#MusicCity'
+  - DFTALS
+  - DuetForThereminAndLapSteel
+  - MusicCity
 
 ---
 <img src="/img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-1024x519.jpeg" alt="" class="wp-image-1158" srcset="/img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-1024x519.jpeg 1024w, /img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-300x152.jpeg 300w, /img/2019/09/D447A3C3-83A9-4A74-8A0D-ED4E9AA3EED6-768x390.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
@@ -64,7 +64,7 @@ _(a listening deeply gift from the urban inside)_
   Complexity relationships<br />distilled into parallel,<br />submerging the fragile bubble<br />into silence.
 </p>
 
-_(September, Nashville, 2019  
+_(September, Nashville, 2019
 [Duet for Theremin and Lap Steel][1] @ Proper Sake)_
 
  [1]: https://dftals.bandcamp.com/
