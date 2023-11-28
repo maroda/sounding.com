@@ -44,8 +44,8 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
@@ -77,8 +77,8 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showSummary = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   showCards = false
   groupByYear = true
@@ -94,8 +94,8 @@ smartTOCHideUnfocusedChildren = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   cardView = true
 
@@ -103,12 +103,21 @@ smartTOCHideUnfocusedChildren = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+
+[firebase]
+  apiKey = "AIzaSyCJd7ytLnqL6O7IvoG6voGaX_2lF7L91bk"
+  authDomain = "sounding-5121d.firebaseapp.com"
+  projectId = "sounding-5121d"
+  storageBucket = "sounding-5121d.appspot.com"
+  messagingSenderId = "360952980309"
+  appId = "1:360952980309:web:cc1c68fd28e15adcc945dc"
+  measurementId = "G-S52VYGHG5Z"
 
 [verification]
   # google = ""
