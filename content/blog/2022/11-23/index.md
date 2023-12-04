@@ -1,6 +1,6 @@
 ---
 title: "The Tao of Blamelessness"
-description: Listening for the space between emotion
+summary: "Juxtaposing the faces of Blameless Culture"
 author: craque
 type: post
 date: 2022-11-24T00:11:17Z
@@ -17,7 +17,7 @@ tags:
 
 ---
 
-I work at a company called Blameless. We make a platform that Site Reliability teams use to provide structure during Incident Response. In my opinion its biggest advantage is how it supports humans in a transparent and accountable way. It is especially good at techniques that support maintaining Common Ground: organizing knowledge, defining roles, providing state, removing assumptions. Running a learning review for us means that we talk about the story of what happened. We are interested in the perspectives of the people at the sharp-end as well as those speaking with the customer or running command.
+I [used to] work at a company called Blameless. We make a platform that Site Reliability teams use to provide structure during Incident Response. In my opinion its biggest advantage is how it supports humans in a transparent and accountable way. It is especially good at techniques that support maintaining Common Ground: organizing knowledge, defining roles, providing state, removing assumptions. Running a learning review for us means that we talk about the story of what happened. We are interested in the perspectives of the people at the sharp-end as well as those speaking with the customer or running command.
 
 Think of an _Incident_ as an exposed section of an alien organism, and it doesn't stop moving. We can only see parts of systems underneath the opening, infer solutions by gaining more perspectives and testing hypotheses. We learn very specific aspects of how the system behaves and deepen our understanding (so we can build more robust aliens). At the same time, we are managing a response that has time pressure. Being able to gather qualitative data about the context of the incident itself provides insight into our response not only so we can practice and be quicker, but also improve our ability to adapt when novel circumstances create slightly different holes on our alien.
 
