@@ -1,25 +1,25 @@
 # -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/configuration/#theme-parameters
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
 
-colorScheme             = "blowfish"
-defaultAppearance       = "dark" # valid options: light or dark
-autoSwitchAppearance    = true
-enableSearch            = true
-enableCodeCopy          = true
-mainSections            = ["blog","dj","improv"]
-# robots                = noarchive
+enableSearch = true
+enableCodeCopy = false
 
-# disableImageOptimization = true
+mainSections = ["blog", "dj", "improv"]
+# robots = ""
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 defaultBackgroundImage = "img/headers/lightcubecables.jpg"
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 defaultFeaturedImage = "img/headers/stringledblur.jpg"
 
-highlightCurrentMenuArea = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = true
+# highlightCurrentMenuArea = true
+# smartTOC = true
+# smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -33,14 +33,13 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/headers/gearcorners.png" # used in: hero, and card
+  homepageImage = "img/headers/gearcorners.png"
   showRecent = false
-  showRecentItems = 1
-  showMoreLink = true
+  showRecentItems = 5
+  showMoreLink = false
   showMoreLinkDest = "/blog"
-  cardView = true
-  cardViewScreenWidth = true
-#  layoutBackgroundBlur = false # only used when layout equals background
+  cardView = false
+  cardViewScreenWidth = false
 
 [article]
   showDate = true
@@ -52,7 +51,7 @@ smartTOCHideUnfocusedChildren = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = true
   editURL = "https://github.com/maroda/sounding.com"
@@ -63,8 +62,8 @@ smartTOCHideUnfocusedChildren = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = true
-  relatedContentLimit = 3
+  # showRelatedContent = false
+  # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
@@ -75,15 +74,15 @@ smartTOCHideUnfocusedChildren = true
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showSummary = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = false
   showCards = false
   groupByYear = false
   cardView = false
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   constrainItemsWidth = false
 
 [sitemap]
@@ -91,24 +90,24 @@ smartTOCHideUnfocusedChildren = true
 
 [taxonomy]
   showTermCount = true
-  showHero = true
+  showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = true
-  showViews = true
-  showLikes = true
-  showTableOfContents = true
-  cardView = true
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = true
-  showViews = true
-  showLikes = true
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = true
-  cardViewScreenWidth = true
+  cardView = false
+  cardViewScreenWidth = false
 
 [firebase]
   apiKey = "AIzaSyCJd7ytLnqL6O7IvoG6voGaX_2lF7L91bk"
@@ -119,8 +118,3 @@ smartTOCHideUnfocusedChildren = true
   appId = "1:360952980309:web:cc1c68fd28e15adcc945dc"
   measurementId = "G-S52VYGHG5Z"
 
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""

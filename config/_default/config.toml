@@ -5,9 +5,8 @@
 baseURL                 = "https://sounding.com/"
 theme                   = "blowfish"
 defaultContentLanguage  = "en"
-pluralizeListTitles     = false
 enableRobotsTXT         = true
-paginate                = 20
+paginate                = 10
 summaryLength           = 0
 buildDrafts             = false
 buildFuture             = false
