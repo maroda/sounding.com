@@ -1,4 +1,5 @@
 .htaccess
 .terraform/
 .DS_Store
+.vscode/
 public/
