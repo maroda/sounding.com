@@ -33,7 +33,7 @@ Nevertheless, this all works. To a degree. Because it's there. For whatever reas
 
 Healthy narcissism is the example of having a balanced conversation with another human. The dialog flows between you and them in a natural state of harmony. They give and take the speaking space while you do the same, back and forth in improvised phraseology.
 
-This is also what I mean by the tendency for people of all professions to document close to their heart. Not for overreaching ethical reasons of the Superego (like we only put ourselves in front of others), but for simple job-related things of resilience and regular work. Nevermind needing to retain the mental model of the architecture, what about the wrench and the screwdrivers you're using to build it?
+This is also what I mean by the tendency for people of all professions to document close to their heart. Not for overreaching ethical reasons of the Superego (like how we put ourselves in front of others), but for simple job-related things of resilience and regular work. Nevermind needing to retain the mental model of the architecture, what about the wrench and the screwdrivers you're using to build it?
 
 For instsance, I have kept a personal wiki for my entire career. I know lots of others that do this, whether they call it a wiki or not. It started as a folder of text files, a lot of them having the same name as the commands or operating system or application or programming language they described. Typically they contain the hints and reminders I need to get my brain into the context of using that particular part of the system.
 
@@ -83,7 +83,7 @@ I learned a sort of mantra from Russell Ackoff, who himself took it from others:
 
 > *It's better to do the right thing wrong than to do the wrong thing right.*
 
-In our current context, of is whether documentation 'tis nobler in the mind to [suffer slings and arrows](https://en.wikipedia.org/wiki/To_be,_or_not_to_be) of incorrectness or whether it should give up and simply die in the drought, the right thing is that we document.
+In our current context, of whether documentation 'tis nobler in the mind to [suffer slings and arrows](https://en.wikipedia.org/wiki/To_be,_or_not_to_be) of incorrectness or whether it should give up and simply die in the drought, the right thing is that we document.
 
 What dreams may come interrupted by the pager in the wake of an incident where the lack of any document at all finally led to you, not even on-call, being woken from the death of sleep?
 
