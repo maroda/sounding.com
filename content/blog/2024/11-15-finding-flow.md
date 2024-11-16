@@ -3,8 +3,8 @@ title: "Finding Flow"
 summary: "Physical triggers for mental acuity"
 author: craque
 type: post
-date: 2024-11-16T02:11:50Z
-url: /2024/11/16/finding-flow
+date: 2024-11-15T02:11:50Z
+url: /2024/11/15/finding-flow
 categories:
   - improvisation
   - learning
