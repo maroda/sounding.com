@@ -18,13 +18,13 @@ tags:
 ---
 ## The happy new year!
 
-I guess my 2025 resolution is that I aim to do more writing. This includes the not-small task of avoiding being overwhelmed. In fact, this "thing" of perfectionism driving my ability to do work or be creative has got to stop!
+I guess my 2025 resolution is that I aim to do more writing. This includes the not-small task of avoiding being overwhelmed. In fact, this "thing" of perfectionism driving my ability to do work or be creative has got to stop! It's affecting everything I do in art and work.
 
 Test-Driven Development has helped me approach this with much greater clarity than I've ever imagined possible. If you follow my [microblogging on mastodon](https://c.im/@dtauvdiodr), you might be aware that I've been attempting to level up my Golang game. The funny thing is, I've written on this very site the proclamation that it must be the programming that contributes to my migraines, due to the way my brain works.
 
 That hasn't changed. I get overwhelmed easily. I still have trouble holding onto newly learned abstractions. I need visualization to help me learn, I need to see it being done and understand some deeper level of _how_ it's being done to get my brain to hold onto the information. Even better is if I create the visualization myself as I am performing the task.
 
-# The Go
+## The Go
 
 Fortunate for me, I've been banging on the edges of Golang for five years as an operator and then SRE running kubernetes and then working with dev teams writing it. But it wasn't until 2024 (11 years as an SRE) that I decided to take it up a notch and at the suggestion of a good gopher friend, dove into [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests). This isn't just about supporting your code with testing, it's a ground-floor introduction to Test-Driven Development (TDD).
 
