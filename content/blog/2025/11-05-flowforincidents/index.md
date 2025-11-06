@@ -36,7 +36,7 @@ Usually when things are ambiguous to me, I jump in and explore to understand how
 
 So, I default to creating maps and diagrams. My favorite purpose for them is to have a picture of how SRE produces a value chain that is consumed by the upstream Users in software engineering. I have to be honest that I had _never_ seen anyone use Mapping like this, and sometimes I questioned myself if I was "doing it wrong". I would say I did the right thing wrong and iterated until I got the right thing built.
 
-That's phraseology lifted directly from a central theme in the book. [Russell Ackoff](https://en.wikipedia.org/wiki/Russell_L._Ackoff) liked to say that it's better to build the wrong thing right than to build the right thing wrong. **Architecting for Flow** describes how to start from that stance and navigate towards building the right thing right.
+That's phraseology lifted directly from a central theme in the book. [Russell Ackoff](https://en.wikipedia.org/wiki/Russell_L._Ackoff) liked to say that it's better to build the right thing wrong than to build the wrong thing right. **Architecting for Flow** describes how to start from that stance and navigate towards building the right thing right.
 
 This book is an exquisite fugue. Wardley Mapping, Domain Driven Design, and Team Topologies are leitmotivs introduced, unfolded, and explained. Real-world problems and users keep a narrative to the text, something for the mind to cling. Each successive entry is folded back onto the preceding to show where the overlap and dimensions cross paths. Concept Maps made from illustrated sticky notes guide the reader through parts and pieces of how sub-systems expand, out to the interrelated melodies and harmonies, down to the pulse of team interactions in Context Maps.
 
