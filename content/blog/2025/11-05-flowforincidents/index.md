@@ -58,7 +58,7 @@ The thing I get right is putting dependencies in relative visibility from the us
 
 It was this early Map of mine that first resonated with Chapter 7, because I was noticing parallels with the types of things that belong to Platform Teams when supporting Software Engineering as Stream-Aligned Teams.
 
-![Wardley Map of an Observability system on a Platform Team](observability-wm.png)
+{{< figure align="right" src="observability-wm.png" href="observability-wm.png" target="_new" nozoom=true alt="Wardley Map of an Observabtility system on a Platform Team" >}}
 
 ## Where is the Platform?
 
@@ -88,7 +88,7 @@ A spectacular quality of this book is how focussed it is on the problem at hand.
 
 **Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". This is the best way to describe what we want during and after incidents. Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice.
 
-![Wardley Map of an Incident Management system on a Platform Team](oncall-wm.png)
+{{< figure align="right" src="oncall-wm.png" href="oncall-wm.png" target="_new" nozoom=true alt="Wardley Map of an Incident Management system on a Platform Team" >}}
 
 ## Flow for Reliability
 
@@ -116,7 +116,7 @@ To understand your team using a Wardley Map, the whole team participates. As a g
 
 One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. My biggest gripe here is no `pipeline` object so I'm still figuring out how to do Value Streams. I did this while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
-![Wardley Map of an Observability Tool product development](monteverdi-wm.png)
+{{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_new" nozoom=true alt="Wardley Map of an Observability Tool product development" >}}
 
 Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 
@@ -124,8 +124,12 @@ The new Mapping element here is the evolution arrows. In **Architecture for Flow
 
 There are things that will likely stay in Custom-Built, for instance the Platform Team's _core_ will probably stay here, unless it evolves as a product in its own right (at which point it escapes the Platform Team Solution Space and becomes part of the Company's Problem Space). In the same vein, maintaining a Custom-Built (which can mean heavy-configured FOSS, but I've seen forked FOSS more often) thing like an Image Repo should move out towards Rental Product and Commodity.
 
-## Epilogue
+## Gratitude
 
-I've been managing Observability, Monitoring, Alerting, and Incidents in SRE teams for over a decade. The elements of what is necessary for an Observability Tool has been a wonderful way to reason about how _human beings_ actually Observe systems.
+I've been managing Observability, Monitoring, Alerting, and Incidents in SRE teams for over a decade and in operations since the Web was born. Using Mapping to help discover the elements of what is necessary for an Observability Tool has been a powerful way to reason about how _human beings_ actually Observe systems. The way Susanne Kaiser ties the human to the Map really impressed me.
 
-The lessons I've learned from **Architecture for Flow** have given me a lot of reasons to keep being an SRE in the face of AI. Whether you sit with me on the Platform or Flow in the Streams, stroll on the steps of tech or constantly side-stepping the next spoke, this book shows how to navigate our course as a sociotechnical community.
+The lessons I've learned have given me a lot of reasons to keep being an SRE in the face of AI. Whether you sit with me on the Platform or Flow in the Streams, stroll on the steps of tech or side-step the next spoke, this book shows effective ways to navigate our course as a sociotechnical community.
+
+I want to thank my brother in music and solaris [Adrian Cockcroft](@adrianco@mastodon.social) for introducing me to this book and being a helping hand during a hard time while I've been unemployed. You were right, it's a _perfect_ one to sink my teeth into while working the job hunt.
+
+My deep gratitude goes to [Susanne Kaiser](@suksr@mastodon.social) for writing an intricate, recapitulating symphony with such well-defined and well-connected melodies. We had the chance to connect on Chapter 7, and I felt I owed you my perspective. I gotta say again, the visuals are fantastic. :)
