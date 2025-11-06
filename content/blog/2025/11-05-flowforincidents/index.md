@@ -58,7 +58,7 @@ The thing I get right is putting dependencies in relative visibility from the us
 
 It was this early Map of mine that first resonated with Chapter 7, because I was noticing parallels with the types of things that belong to Platform Teams when supporting Software Engineering as Stream-Aligned Teams.
 
-{{< figure align="right" src="observability-wm.png" alt="Wardley Map of an Observability system on a Platform Team" >}}
+{{< figure align="right" src="observability-wm.png" href="observability-wm.png" target="_new" alt="Wardley Map of an Observability system on a Platform Team" >}}
 
 ## Where is the Platform?
 
@@ -88,7 +88,7 @@ A spectacular quality of this book is how focussed it is on the problem at hand.
 
 **Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". This is the best way to describe what we want during and after incidents. Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice.
 
-{{< figure align="right" src="oncall-wm.png" alt="Wardley Map of an Incident Management system on a Platform Team" >}}
+{{< figure align="right" src="oncall-wm.png" href="oncall-wm.png" target="_new" alt="Wardley Map of an Incident Management system on a Platform Team" >}}
 
 ## Flow for Reliability
 
@@ -116,7 +116,7 @@ To understand your team using a Wardley Map, the whole team participates. As a g
 
 One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. My biggest gripe here is no `pipeline` object so I'm still figuring out how to do Value Streams. I did this while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
-{{< figure align="right" src="monteverdi-wm.png" alt="Wardley Map of an Observability Tool product development" >}}
+{{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_new" alt="Wardley Map of an Observability Tool product development" >}}
 
 Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 
