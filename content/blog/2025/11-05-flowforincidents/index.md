@@ -34,7 +34,7 @@ So, I default to creating maps and diagrams. My favorite purpose for them is to 
 
 That's phraseology lifted directly from a central theme in the book. Russel Ackoff liked to say that it's better to build the wrong thing right than to build the right thing wrong. **Architecting for Flow** describes how to start from that stance and navigate towards building the right thing right.
 
-This book is an exquisite fugue. Wardley Mapping, Domain Driven Design, and Team Topologies are leitmotivs introduced, unfolded, and explained. Real-world problems and users keep a narrative to the text, something for the mind to cling. Each successive entry is folded back onto the preceding to show where the overlap and dimensions cross paths. Concept Maps guide the reader through parts and pieces of how sub-systems expand, the interrelated melodies and harmonies, down to the pulse of team interactions in Context Maps.
+This book is an exquisite fugue. Wardley Mapping, Domain Driven Design, and Team Topologies are leitmotivs introduced, unfolded, and explained. Real-world problems and users keep a narrative to the text, something for the mind to cling. Each successive entry is folded back onto the preceding to show where the overlap and dimensions cross paths. Concept Maps guide the reader through parts and pieces of how sub-systems expand, the interrelated melodies and harmonies, down to the pulse of team interactions in Context Maps.
 
 ## Woven Together
 
@@ -50,7 +50,7 @@ My maps are a second kind, what Kaiser introduces in later Parts. Her context is
 
 Below, my **Problem Space** contains the platform providing Observability and other SRE sponsored Reliability Systems, its Users are implied as those who need Observability, with three User Needs: *Manages the System, Receives Notifications, Analyzes/Synthesizes*.
 
-Users are SREs managing the platform, SWEs utilizing it, Support and Testing with synthetics and QA, Marketing or Sales needing customer stats, Data folks in every part of the stack, and incident responders of all types.
+Users are SREs managing the platform, SWEs utilizing it, Support and Testing with synthetics and QA, Marketing or Sales needing customer stats, Data folks in every part of the stack, and incident responders of all types.
 
 Some things I am doing wrong. It's confusing in part because there are no *value chain dependencies* (I incorrectly call it a value _stream_ on the left-hand side, which is something else entirely, more on that in a moment) and everything is 1:1 with the User Need. These three needs could be separated, because they don't connect to each other in this diagram, but the reality is that a lot of those pieces are interdependent.
 
@@ -58,7 +58,7 @@ The thing I get right is putting dependencies in relative visibility from the us
 
 It was this early Map of mine that first resonated with Chapter 7, because I was noticing parallels with the types of things that belong to Platform Teams when supporting Software Engineering as Stream-Aligned Teams.
 
-{{< figure align="right" width=500 src="observability-wm.png" alt="Wardley Map of an Observability system on a Platform Team" >}}
+{{< figure align="right" src="observability-wm.png" alt="Wardley Map of an Observability system on a Platform Team" >}}
 
 ## Where is the Platform?
 
@@ -88,11 +88,11 @@ A spectacular quality of this book is how focussed it is on the problem at hand.
 
 **Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". This is the best way to describe what we want during and after incidents. Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice.
 
-{{< figure align="right" width=500 src="oncall-wm.png" alt="Wardley Map of an Incident Management system on a Platform Team" >}}
+{{< figure align="right" src="oncall-wm.png" alt="Wardley Map of an Incident Management system on a Platform Team" >}}
 
 ## Flow for Reliability
 
-The place for Incident Management in **Architecture for Flow** is in the Platform Team. The reason why I think it's important to call out is because this is one area where ambiguity exists all the time. Personal preferences of the current Director or VP can directly and _immediately_ affect how incident management is run at an organization if it isn't strongly owned and supported. Unlike the other systems this team runs, the Platform of Incident Management requires more inter-team collaboration and coordination, typically grouped around incidents, but hopefully also regular get-togethers for learning.
+The place for Incident Management in **Architecture for Flow** is in the Platform Team. The reason why I think it's important to call out is because this is one area where ambiguity exists all the time. Unlike the other systems this team runs, the Platform of Incident Management requires more inter-team collaboration and coordination, typically grouped around incidents, but hopefully also regular get-togethers for learning.
 
 Provided a strong Incident Platform, Stream-Aligned Teams can run incidents themselves. The Platform Team decides when the Incident Command on-call (open to anyone who wants to do it across the whole company, or some orgs have the luxury of a dedicated team) is brought in to run things. Incident Investigators are also on the Platform Team, they do not respond to incidents (except their own), and are the owners of the analysis and post-incident reviews.
 
@@ -116,7 +116,7 @@ To understand your team using a Wardley Map, the whole team participates. As a g
 
 One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. My biggest gripe here is no `pipeline` object so I'm still figuring out how to do Value Streams. I did this while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
-{{< figure align="right" width=500 src="oncall-wm.png" alt="Wardley Map of an Observability Tool product development" >}}
+{{< figure align="right" src="monteverdi-wm.png" alt="Wardley Map of an Observability Tool product development" >}}
 
 Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 
