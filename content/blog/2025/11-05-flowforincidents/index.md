@@ -22,29 +22,31 @@ Most members of society (*the User*) are out there at the edge of the wheel. Eac
 
 Over the past few decades, the spin has quickened. While the outer rim experiences the speed-up, the inner rim feels time magnified. Tech workers are here. The spokes are the same spokes, but they come much quicker, the steps are more narrow. As soon as one passes it seems like the next is already there.
 
-This is a model of a complex universe where resources are limited and change is constant. A thing a lot of people say is how "the cloud" (*jazz hands*) and chained dependencies (*fist bump*) are what make modern software complex, the classic and impressive "Death Stars" of networked entities, but that's not it.
+This is my model of a complex universe described by [David Woods](https://en.wikipedia.org/wiki/David_Woods_(safety_researcher)), where resources are limited and change is constant. A thing a lot of people say is how "the cloud" (*jazz hands*) and chained dependencies (*fist bump*) are what make modern software complex, the classic and impressive "Death Stars" of networked entities, but that's not it.
 
 The thing that makes modern software complex is human beings. This is what Susanne Kaiser's book [**Architecture for Flow**](https://architectureforflow.com) is all about, emphasizing the things that make us human that will help us navigate a quickening of the wheel. The canvas for building this system can be model-first (*you're starting a new company*), but the more common "strangler-fig" approach starts by knowing where we are.
 
 ## Make a Map
 
-Usually when things are ambiguous to me, I jump in and explore to understand how things around me operate. Learning Wardley Mapping techniques, I read a lot and followed the examples of others. I got to know the templates, canvases, and code to build them. *Spatial reckoning* fits me really well, and Mapping became a way for me to build roadmaps and handle ambiguous planning situations in a way that makes sense to my brain.
+Usually when things are ambiguous to me, I jump in and explore to understand how things around me operate. Learning [**Wardley Mapping**](https://learnwardleymapping.com), I read a lot and followed the examples of others. I got to know the templates, canvases, and code to build them. *Spatial reckoning* fits me really well, and Mapping became a way for me to build roadmaps and handle ambiguous planning situations in a way that makes sense to my brain.
 
 So, I default to creating maps and diagrams. My favorite purpose for them is to have a picture of how SRE produces a value chain that is consumed by the upstream Users in software engineering. I have to be honest that I had _never_ seen anyone use Mapping like this, and sometimes I questioned myself if I was "doing it wrong". I would say I did the right thing wrong and iterated until I got the right thing built.
 
-That's phraseology lifted directly from a central theme in the book. Russel Ackoff liked to say that it's better to build the wrong thing right than to build the right thing wrong. **Architecting for Flow** describes how to start from that stance and navigate towards building the right thing right.
+That's phraseology lifted directly from a central theme in the book. [Russell Ackoff](https://en.wikipedia.org/wiki/Russell_L._Ackoff) liked to say that it's better to build the wrong thing right than to build the right thing wrong. **Architecting for Flow** describes how to start from that stance and navigate towards building the right thing right.
 
-This book is an exquisite fugue. Wardley Mapping, Domain Driven Design, and Team Topologies are leitmotivs introduced, unfolded, and explained. Real-world problems and users keep a narrative to the text, something for the mind to cling. Each successive entry is folded back onto the preceding to show where the overlap and dimensions cross paths. Concept Maps guide the reader through parts and pieces of how sub-systems expand, the interrelated melodies and harmonies, down to the pulse of team interactions in Context Maps.
+This book is an exquisite fugue. Wardley Mapping, Domain Driven Design, and Team Topologies are leitmotivs introduced, unfolded, and explained. Real-world problems and users keep a narrative to the text, something for the mind to cling. Each successive entry is folded back onto the preceding to show where the overlap and dimensions cross paths. Concept Maps made from illustrated sticky notes guide the reader through parts and pieces of how sub-systems expand, out to the interrelated melodies and harmonies, down to the pulse of team interactions in Context Maps.
 
 ## Woven Together
 
-Instead of doing the book a huge disservice by attempting to cover each big topic, I am limiting my overview to a single one, which I've already mentioned: **Chapter 7**, *Visualizing Team Perspectives with Wardley Maps*.
+Instead of doing the book a huge disservice by attempting to cover each big topic, I am limiting my overview to one: **Chapter 7**, ***Visualizing Team Perspectives with Wardley Maps***.
 
 Because the book is so wonderfully illustrated with designs that appear hand-drawn and thrown up on a whiteboard with stickies (with color/shading described and patterns to distinguish types), I decided to share some of my own Mapping work as a point of discussion.
 
-When introducing each of the three leitmotivs in our fugue, Kaiser shows how to write the composed model. It becomes a picture of where we want to go, how we want to organize, and what's important to the core mission of the business. She illustrates plainly how **Wardley Maps**, **Domain Driven Design**, and **Team Topologies** have a *Doctrine* that matches in key areas. This application of systems thinking helps us build **Adaptive Networks**, where teams more easily adjust to change as those spokes are speeding up.
+When introducing each of the three leitmotivs in our fugue, Kaiser shows how to write the composed model. It becomes a picture of where we want to go, how we want to organize, and what's important to the core mission of the business. She illustrates plainly how **Wardley Maps**, **Domain Driven Design**, and **Team Topologies** have a *Doctrine* that matches in key areas.
 
-My maps are a second kind, what Kaiser introduces in later Parts. Her context is that in order to design a transformation, we need to see where we are. Mine are like this, a snapshot of the current state, *WE ARE HERE*.
+This application of systems thinking is how we construct **Adaptive Networks**, where teams more easily adjust to change as those spokes are speeding up. That first kind of Mapping - the composed model - is the Map of where we're going, the notes on the page.
+
+Performing the piece is going to be a journey. As such, my Maps are a second kind, what Kaiser introduces in later Parts in order to design a transformation. To do that, we need to see where we are. They are a snapshot of the current state; *WE ARE HERE*.
 
 ## Observability Systems
 
@@ -70,7 +72,7 @@ Kaiser tells a story of an educational website migrating from bare-metal to clou
 
 One small gripe I have is the term **Cognitive Load**. This might be a controversial opinion, because it's quite the thing these days with technical teams. Here, it is used to describe the mental strain placed on us when our capacity to remember things is affected. It's a capacity problem, a storage problem. She is very specific about making sure to define it this way, and that is helpfully putting a boundary around the term.
 
-Dr Richard Cook often said that _Cognition_ is not something we can objectively know. For example, I have a non-standard memory, it's highly contextual. The normal models of how many numbers and phrases a human can remember don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity and storage models do not fit.
+[Richard Cook](https://en.wikipedia.org/wiki/Richard_Cook_(safety_researcher)) often said that _Cognition_ is not something we can objectively know. For example, I have a non-standard memory, it's highly contextual. The normal models of how many numbers and phrases a human can remember don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity and storage models do not fit.
 
 For describing the decompensation of a team of people due to complex circumstances, I prefer **Decision Weight**. That said, I understand why Cognitive Load is used in this context. It does communicate a state of being for teams, "load" the operative word. This book isn't about Cognitive Psychology, so using a handy alias that is well-known works fine.
 
@@ -80,7 +82,7 @@ We may as well be arguing if a hotdog is a sandwich, so let's move on, to my les
 
 **Value Streams** can be used to break down dependencies to understand the underlying dynamics of something a team has to do. My second Map below is limited to **Incident Response**, with four User Needs identified for the On-Call Engineer: *Training, Adaptability, Awareness, Action*.
 
-**Action** requires dependencies *Communicate* and *Mitigate*. Each of these contain their own *Value Stream* represented by the horizontal bar. This was created using the Wardley Maps as Code plugin for VSCode, and they're called `pipeline` entities there. I use them to group processes that need representation: **Mitigate** contains *Troubleshoot, Repair, Deploy*; **Communicate** contains *Coordinate, Delegate, Escalate*.
+**Action** requires dependencies *Communicate* and *Mitigate*. Each of these contain their own *Value Stream* represented by the horizontal bar. This was created using the [**Maps as Code**](https://learnwardleymapping.com/project-type/maps-as-code/) plugin for VSCode, and they're called `pipeline` entities there. I use them to group processes that need representation: **Mitigate** contains *Troubleshoot, Repair, Deploy*; **Communicate** contains *Coordinate, Delegate, Escalate*.
 
 This is a big Map. It feels all-encompassing, even with the boundary of Incident Response. Here, concepts and ideas join technical dependencies that branch under each Need. This Map also does a better job at connecting the things that need connecting and not limiting items to singular Need columns. So it is clear that Incidents are as ominous and complex to define as Cognitive Load.
 
@@ -114,7 +116,7 @@ Something I want to point out about all the Maps I've shared here and the one in
 
 To understand your team using a Wardley Map, the whole team participates. As a group, decide where you _want_ your systems to be. Ask: what is _core_ to what we do as a Platform Team? Where should we spend our valuable time and effort? Whatever isn't in this *core*, can we shift it to SaaS or other Commodity resources (vendors) to lighten our *own* decision scope?
 
-One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. My biggest gripe here is no `pipeline` object so I'm still figuring out how to do Value Streams. I did this while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
+One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. There is no `pipeline` object so I'm still figuring out how to do Value Streams. The following I made while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
 {{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_new" nozoom=true alt="Wardley Map of an Observability Tool product development" >}}
 
