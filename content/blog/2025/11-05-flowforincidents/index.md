@@ -14,17 +14,17 @@ tags:
   - software-engineering
 ---
 
-## Starting with a Model
+## Spinning a Model
 
 Imagine spokes on an endlessly rotating wheel with an axle extending sideways in a twisted single-helix, a circular stairway on its side. These spokes represent change.
 
-Most of society (*the User*) are out there at the edge of the wheel. Each time society accepts a new advancement in tech, they step to the next spoke.
+Most members of society (*the User*) are out there at the edge of the wheel. Each time society accepts a new advancement in tech, they step to the next spoke.
 
 Over the past few decades, the spin has quickened. While the outer rim experiences the speed-up, the inner rim feels time magnified. Tech workers are here. The spokes are the same spokes, but they come much quicker, the steps are more narrow. As soon as one passes it seems like the next is already there.
 
 This is a model of a complex universe where resources are limited and change is constant. A thing a lot of people say is how "the cloud" (*jazz hands*) and chained dependencies (*fist bump*) are what make modern software complex, the classic and impressive "Death Stars" of networked entities, but that's not it.
 
-The thing that makes modern software complex is human beings. This is what Susanne Kaiser's book Architecture for Flow is all about, emphasizing the things that make us human that will help us navigate a quickening of the wheel. The canvas for building this system can be model-first (*you're starting a new company*), but the more common "strangler-fig" approach starts by knowing where we are.
+The thing that makes modern software complex is human beings. This is what Susanne Kaiser's book [**Architecture for Flow**](https://architectureforflow.com) is all about, emphasizing the things that make us human that will help us navigate a quickening of the wheel. The canvas for building this system can be model-first (*you're starting a new company*), but the more common "strangler-fig" approach starts by knowing where we are.
 
 ## Make a Map
 
@@ -58,7 +58,7 @@ The thing I get right is putting dependencies in relative visibility from the us
 
 It was this early Map of mine that first resonated with Chapter 7, because I was noticing parallels with the types of things that belong to Platform Teams when supporting Software Engineering as Stream-Aligned Teams.
 
-{{< figure align="right" src="observability-wm.png" href="observability-wm.png" target="_new" alt="Wardley Map of an Observability system on a Platform Team" >}}
+![Wardley Map of an Observability system on a Platform Team](observability-wm.png)
 
 ## Where is the Platform?
 
@@ -70,9 +70,9 @@ Kaiser tells a story of an educational website migrating from bare-metal to clou
 
 One small gripe I have is the term **Cognitive Load**. This might be a controversial opinion, because it's quite the thing these days with technical teams. Here, it is used to describe the mental strain placed on us when our capacity to remember things is affected. It's a capacity problem, a storage problem. She is very specific about making sure to define it this way, and that is helpfully putting a boundary around the term.
 
-I don't love the term. Dr Richard Cook often said that _Cognition_ is not something we can objectively know. For example, I have a non-standard memory, it's highly contextual. The normal models of how many numbers and phrases a human can remember don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity and storage models do not fit.
+Dr Richard Cook often said that _Cognition_ is not something we can objectively know. For example, I have a non-standard memory, it's highly contextual. The normal models of how many numbers and phrases a human can remember don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity and storage models do not fit.
 
-For describing the decompensation of a team of people due to complex circumstances, I prefer **Decision Weight**. That said, I understand why it's used in this context. It does communicate a state of being for teams, but memory is only part of it. This book isn't about Cognitive Psychology, so using a handy alias that is well-known works fine.
+For describing the decompensation of a team of people due to complex circumstances, I prefer **Decision Weight**. That said, I understand why Cognitive Load is used in this context. It does communicate a state of being for teams, "load" the operative word. This book isn't about Cognitive Psychology, so using a handy alias that is well-known works fine.
 
 We may as well be arguing if a hotdog is a sandwich, so let's move on, to my less-small gripe.
 
@@ -88,7 +88,7 @@ A spectacular quality of this book is how focussed it is on the problem at hand.
 
 **Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". This is the best way to describe what we want during and after incidents. Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice.
 
-{{< figure align="right" src="oncall-wm.png" href="oncall-wm.png" target="_new" alt="Wardley Map of an Incident Management system on a Platform Team" >}}
+![Wardley Map of an Incident Management system on a Platform Team](oncall-wm.png)
 
 ## Flow for Reliability
 
@@ -116,7 +116,7 @@ To understand your team using a Wardley Map, the whole team participates. As a g
 
 One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. My biggest gripe here is no `pipeline` object so I'm still figuring out how to do Value Streams. I did this while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
-{{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_new" alt="Wardley Map of an Observability Tool product development" >}}
+![Wardley Map of an Observability Tool product development](monteverdi-wm.png)
 
 Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 
@@ -124,6 +124,8 @@ The new Mapping element here is the evolution arrows. In **Architecture for Flow
 
 There are things that will likely stay in Custom-Built, for instance the Platform Team's _core_ will probably stay here, unless it evolves as a product in its own right (at which point it escapes the Platform Team Solution Space and becomes part of the Company's Problem Space). In the same vein, maintaining a Custom-Built (which can mean heavy-configured FOSS, but I've seen forked FOSS more often) thing like an Image Repo should move out towards Rental Product and Commodity.
 
-As I am building my application, I'm considering my own _core_ for Monteverdi. After I made the Map, it was clear to me there is a string of dependencies in Genesis for an entirely unrepresented User Need. They became my top priority in development. Simple things like this jump out, because maybe I really would rather work on code in the MemTSDB or add more data input plugins. The Map sits in a Landscape that helps me reason priorities, affected by Climate within and without.
+## Epilogue
 
-I've been managing Observability, Monitoring, Alerting, and Incidents in SRE teams for over a decade. The elements of what is necessary for an Observability Tool has been a wonderful way to reason about how _human beings_ actually Observe systems. The lessons I've learned from **Architecture for Flow** have given me a lot of reasons to keep being an SRE in the face of AI. Whether you sit with me on the Platform or Flow in the Streams, stroll on the steps of tech or constantly side-stepping the next spoke, this book shows how to navigate our course as a sociotechnical community.
+I've been managing Observability, Monitoring, Alerting, and Incidents in SRE teams for over a decade. The elements of what is necessary for an Observability Tool has been a wonderful way to reason about how _human beings_ actually Observe systems.
+
+The lessons I've learned from **Architecture for Flow** have given me a lot of reasons to keep being an SRE in the face of AI. Whether you sit with me on the Platform or Flow in the Streams, stroll on the steps of tech or constantly side-stepping the next spoke, this book shows how to navigate our course as a sociotechnical community.
