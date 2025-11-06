@@ -3,12 +3,16 @@ title: "Architecture for Flow and Incidents"
 summary: Susanne Kaiser on building adaptive networks
 author: craque
 type: post
-date: 2025-11-06T01:35:58Z
+date: 2025-11-06T05:06:44Z
 url: /2025/11/06/flow-for-incidents
 categories:
   - reliability
+  - resilience
+  - incidents
 tags:
+  - adaptation
   - design
+  - teams
   - sre
   - platform
   - software-engineering
@@ -120,7 +124,7 @@ One last Map to share, a very recent one where I've been trying out the Wardley 
 
 {{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_blank" nozoom=true alt="Wardley Map of an Observability Tool product development" >}}
 
-Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
+[Monteverdi](https://github.com/maroda/monteverdi) is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 
 The new Mapping element here is the evolution arrows. In **Architecture for Flow**, the goal of the Map is not for everything to move up-and-to-the-right. Dependencies will necessarily flow downward, and they will necessarily have an evolutionary place, and those places have necessary qualities to them. For instance, a team can own and manage more Commodity systems than it can Custom-Built ones.
 
