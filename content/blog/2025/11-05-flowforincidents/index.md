@@ -60,7 +60,7 @@ The thing I get right is putting dependencies in relative visibility from the us
 
 It was this early Map of mine that first resonated with Chapter 7, because I was noticing parallels with the types of things that belong to Platform Teams when supporting Software Engineering as Stream-Aligned Teams.
 
-{{< figure align="right" src="observability-wm.png" href="observability-wm.png" target="_new" nozoom=true alt="Wardley Map of an Observabtility system on a Platform Team" >}}
+{{< figure align="right" src="observability-wm.png" href="observability-wm.png" target="_blank" nozoom=true alt="Wardley Map of an Observabtility system on a Platform Team" >}}
 
 ## Where is the Platform?
 
@@ -72,9 +72,9 @@ Kaiser tells a story of an educational website migrating from bare-metal to clou
 
 One small gripe I have is the term **Cognitive Load**. This might be a controversial opinion, because it's quite the thing these days with technical teams. Here, it is used to describe the mental strain placed on us when our capacity to remember things is affected. It's a capacity problem, a storage problem. She is very specific about making sure to define it this way, and that is helpfully putting a boundary around the term.
 
-[Richard Cook](https://en.wikipedia.org/wiki/Richard_Cook_(safety_researcher)) often said that _Cognition_ is not something we can objectively know. For example, I have a non-standard memory, it's highly contextual. The normal models of how many numbers and phrases a human can remember don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity and storage models do not fit.
+[Richard Cook](https://en.wikipedia.org/wiki/Richard_Cook_(safety_researcher)) often said that _Cognition_ is not something we can objectively know. For example, my non-standard memory is abnormally contextual. The typical ways humans store and recall numbers and words don't work with my brain, text gets flipped around and garbled like there's no place to hold it. Capacity models do not really fit, I become heavily burdened mentally without context to help recall. But once I have that context, the pressure is relieved and the memory is there.
 
-For describing the decompensation of a team of people due to complex circumstances, I prefer **Decision Weight**. That said, I understand why Cognitive Load is used in this context. It does communicate a state of being for teams, "load" the operative word. This book isn't about Cognitive Psychology, so using a handy alias that is well-known works fine.
+For describing the decompensation of a team of people due to complex circumstances, I prefer **Decision Weight**. That said, I understand why *Cognitive Load* is used in this context. It does communicate a state of being for teams, "load" the operative word. This book isn't about Cognitive Psychology, so using a handy alias that is well-known works fine.
 
 We may as well be arguing if a hotdog is a sandwich, so let's move on, to my less-small gripe.
 
@@ -88,9 +88,9 @@ This is a big Map. It feels all-encompassing, even with the boundary of Incident
 
 A spectacular quality of this book is how focussed it is on the problem at hand. Side trips to Cognitive Psychology and Resilience in Software are understandably absent. So I want to help supplement and fill that question for people who finish the book and have the same question about how this team structure handles Incidents in Software.
 
-**Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". This is the best way to describe what we want during and after incidents. Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice.
+**Architecture for Flow** does not ignore incidents. The penultimate chapter calls on us to lean into building a "Learning organization with continuous shared learning & experimentation". Several things feed into this concept: the Wardley doctrinal principals, Enabling teams, good collaboration with domain experts for design, inter-team collaboration, "Safety II" thinking, Generative culture, and (my favorite) Community of Practice. The ingredients of a healthy stance on Incident Management is the same picture.
 
-{{< figure align="right" src="oncall-wm.png" href="oncall-wm.png" target="_new" nozoom=true alt="Wardley Map of an Incident Management system on a Platform Team" >}}
+{{< figure align="right" src="oncall-wm.png" href="oncall-wm.png" target="_blank" nozoom=true alt="Wardley Map of an Incident Management system on a Platform Team" >}}
 
 ## Flow for Reliability
 
@@ -118,7 +118,7 @@ To understand your team using a Wardley Map, the whole team participates. As a g
 
 One last Map to share, a very recent one where I've been trying out the Wardley Maps as Code plugin for Obsidian. There is no `pipeline` object so I'm still figuring out how to do Value Streams. The following I made while I was reading the book, it's the first iteration of a Map about Observability Tooling, the User a Reliability Engineer with Needs: *Alert, Share, Develop*.
 
-{{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_new" nozoom=true alt="Wardley Map of an Observability Tool product development" >}}
+{{< figure align="right" src="monteverdi-wm.png" href="monteverdi-wm.png" target="_blank" nozoom=true alt="Wardley Map of an Observability Tool product development" >}}
 
 Monteverdi is a tool that checks Endpoints for metrics, like the raw data from Prometheus or OpenTelemetry. Specific metrics are selected and configured with a "max". When Monteverdi senses the max has been breached, it creates a pulse around the event. These pulses are of different patterns that are fed into a front-end visualization or optionally written to a database or played as a MIDI file.
 

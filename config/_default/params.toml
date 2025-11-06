@@ -67,7 +67,7 @@ defaultFeaturedImage = "img/headers/stringledblur.jpg"
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = [ "linkedin", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "email", "whatsapp", "telegram"]
 
 [list]
   showHero = false
