@@ -136,6 +136,6 @@ I've been managing Observability, Monitoring, Alerting, and Incidents in SRE tea
 
 The lessons I've learned have given me a lot of reasons to keep being an SRE in the face of AI. Whether you sit with me on the Platform or Flow in the Streams, stroll on the steps of tech or side-step the next spoke, this book shows effective ways to navigate our course as a sociotechnical community.
 
-I want to thank my brother in music and solaris [Adrian Cockcroft](@adrianco@mastodon.social) for introducing me to this book and being a helping hand during a hard time while I've been unemployed. You were right, it's a _perfect_ one to sink my teeth into while working the job hunt.
+I want to thank my brother in music and solaris [Adrian Cockcroft](https://mastodon.social/@adrianco) for introducing me to this book and being a helping hand during a hard time while I've been unemployed. You were right, it's a _perfect_ one to sink my teeth into while working the job hunt.
 
-My deep gratitude goes to [Susanne Kaiser](@suksr@mastodon.social) for writing an intricate, recapitulating symphony with such well-defined and well-connected melodies. We had the chance to connect on Chapter 7, and I felt I owed you my perspective. I gotta say again, the visuals are fantastic. :)
+My deep gratitude goes to [Susanne Kaiser](https://mastodon.social/@suksr) for writing an intricate, recapitulating symphony with such well-defined and well-connected melodies. We had the chance to connect on Chapter 7, and I felt I owed you my perspective. I gotta say again, the visuals are fantastic. :)
