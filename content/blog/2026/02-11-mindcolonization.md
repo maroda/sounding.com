@@ -57,6 +57,8 @@ This is different than learning programming. When I learned **Test-Driven Develo
 
 I also need to understand where the LLM is flat out wrong, or when it doesn't work and I have to debug. This takes a different frame of mind than constantly accepting the brittle responses of the LLM. In fact, I have implemented exactly the opposite of what an LLM has told me to do in its quaintly anthropomorphic but incomplete way. I have lost so much trust in LLM reliability, it feels like engineering for shitty AWS reliability circa 2015 but 10x. Maybe that's why LLMs are replacing 10x engineers.
 
+## Invasively Imperial
+
 To me, these commercial LLM chat platforms are not programming replacements because they are not open and free. When organizations choose to make a shift to using them, they are being colonized. Especially so if they are laying off and not hiring people due to "implementing AI". Tech workers are being averaged out, the ones who can operate within the confines of the colony gain the most advantage.
 
 But it's not fair for me to claim I can accurately categorize every bad use of LLMs because I know there are good uses. For someone who hasn't been colonized, reaching those kinds of use cases - like multi agent parallelism - is very difficult. Having the circumstances to practice and learn with those kinds of resources is out of reach.
