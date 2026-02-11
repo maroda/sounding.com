@@ -65,6 +65,6 @@ But it's not fair for me to claim I can accurately categorize every bad use of L
 
 At some point, LLM usage will become the reason why capable engineers won't be hired. They shall be seen as savages still writing actual code because they cannot (or will not) pay for an LLM. They don't look and behave like the colony dwellers do. It's like Vault-Tec but in reverse, kept within siloes of their LLM capabilities. Captured by technological needs constantly changing.
 
-Implementing LLM-as-AI into our Joint-Cognitive-System is tied directly to the economics of usage. It shackles users with tokens and eats natural resources. This is driven by profit, that's the literal bottom line. Convincing those potential customers that they _belong_ in this high-cost virtual world is how they land the boats.
+Implementing LLM-as-AI into our Joint-Cognitive-System is tied directly to the economics of usage. It shackles users and eats natural resources. They are driven by the coastline of profit. Convincing those potential customers that they _belong_ in this high-cost virtual world is how they land the boats.
 
 Our minds, colonized at last, lay open to endless expansion. We should do something about this, tech workers, before it's too late and the virtual chickenpox blankets arrive. Unionizing sounds pretty sweet when faced with such bleak circumstances. Has your team thought about it?
