@@ -43,7 +43,9 @@ When I want to learn about a programming language, the Open Source community is 
 
 - Beyond OpenX, I jumped to the cloud. In several start-ups I came to know [Terraform](https://github.com/hashicorp/terraform) and [Kubernetes](https://github.com/kubernetes/kubernetes) intimately, got deep into CI and reliability through testing so [GitHub Actions](https://github.com/features/actions) became an important tool, and eventually I found a trajectory to becoming proficient in [Golang](https://github.com/golang).
 
-In fact next month I am giving my first talk on something I developed... oh wait, that happened! This time, it's Golang instead of Java. So look for me failing to shut up about **Southern California Linux Expo** and the talk I'm giving on March 8 about my open source observability app called [Monteverdi](https://github.com/maroda/monteverdi).
+- At Blameless we made a decision to go with Sumo Logic over DataDog for our central observability platform because it installed with the full [Prometheus Stack](https://github.com/prometheus), including [OpenTelemetry](https://github.com/open-telemetry) agents.
+
+Next month I am giving my first talk on something I developed... oh wait, that happened! ;) This time, it's Golang instead of Java. So look for me failing to shut up about **Southern California Linux Expo** and the talk I'm giving on March 8 about my open source observability app called [Monteverdi](https://github.com/maroda/monteverdi).
 
 ## Remaining Open
 
