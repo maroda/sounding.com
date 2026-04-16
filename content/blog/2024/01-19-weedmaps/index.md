@@ -16,7 +16,7 @@ tags:
   - empathy
   - gratitude
   - resilience
-
+draft: true
 ---
 Over the past few years I've been working a lot on how we build empathy and gratitude for others. It's good for my PTSD recovery and it's necessary for the role Site Reliability Engineering plays in technical operations. I am learning that my own success is something to be proud of, not because I have a privilege to be proud, but because others can benefit from seeing me succeed.
 
