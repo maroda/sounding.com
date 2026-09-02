@@ -3,7 +3,7 @@ title: "Incident Story Time"
 summary: "connective labor in SRE"
 author: craque
 type: post
-date: 2026-09-07T23:00:00Z
+date: 2026-09-01T23:00:00Z
 url: /2026/09/01/incidentstorytime
 categories:
   - incidents
@@ -26,7 +26,7 @@ I started doing this four jobs ago, about six years back. Weekly operational rev
 
 I suggested we should make this a weekly meeting that told the _stories_ of incidents. As a title, "Incident Story Time" fell naturally into place. In that job and in every job since, I've established this weekly discipline.
 
-At each one of those companies the situation was somewhat the same: opportunities to learn how people do their jobs and how we can learn to work together better were being left on the table. Sometimes the meeting wasn't happening at all. Sometimes no incidents were being reviewed at all. Or the reviews just counted stuff and asked the same boring, forgettable surface questions about whether we were good or bad.
+At each one of these companies the situation was somewhat the same: opportunities to learn how people do their jobs and how we can learn to work together better were being left on the table. Sometimes the meeting wasn't happening at all. Sometimes no incidents were being reviewed at all. Or the reviews just counted stuff and asked the same boring, forgettable surface questions about whether we were good or bad.
 
 ## It goes like this.
 
